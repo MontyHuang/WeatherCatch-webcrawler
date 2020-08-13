@@ -1,0 +1,4195 @@
+<html lang="zh-Hant-TW">
+ <!--<![endif]-->
+ <head>
+  <title>
+   縣市預報 | 交通部中央氣象局
+  </title>
+  <!-- Meta -->
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="" name="description"/>
+  <meta content="" name="author"/>
+  <!--Facebook_meta_begin-->
+  <!-- Facebook -->
+  <meta content="https://www.cwb.gov.tw/V8/C/W/County/index.html" property="og:url"/>
+  <meta content="縣市預報 - 中央氣象局全球資訊網" property="og:title"/>
+  <meta content="https://www.cwb.gov.tw/Data/fcst_img/I04_small.jpg?" property="og:image"/>
+  <meta content="image/jpg" property="og:image:type"/>
+  <meta content="縣市預報" property="og:description"/>
+  <meta content="中央氣象局全球資訊網" property="og:site_name"/>
+  <!--Facebook_meta_end-->
+  <!--tw.gov_meta_begin-->
+  <meta content="交通部中央氣象局" name="DC.Creator"/>
+  <meta content="交通部中央氣象局" name="DC.Contributor"/>
+  <meta content="服務" name="DC.Type"/>
+  <meta content="text" name="DC.Format"/>
+  <meta content="交通部中央氣象局" name="DC.Source"/>
+  <meta content="中文" name="DC.Language"/>
+  <meta content="2020-05-12" name="DC.coverage.t.min"/>
+  <meta content="2025-05-12" name="DC.coverage.t.max"/>
+  <meta content="交通部中央氣象局" name="DC.Publisher"/>
+  <meta content="2020-05-12 13:55" name="DC.Date"/>
+  <meta content="315070000H" name="DC.Identifier"/>
+  <meta content="" name="DC.Relation"/>
+  <meta content="交通部中央氣象局" name="DC.Rights"/>
+  <meta content="650" name="Category.Theme"/>
+  <meta content="CM0" name="Category.Cake"/>
+  <meta content="EZ0" name="Category.Service"/>
+  <meta content="中央氣象局全球資訊網" name="DC.Title"/>
+  <meta content="天氣" name="DC.Subject"/>
+  <meta content="縣市預報地圖" name="DC.Description"/>
+  <meta content="縣市預報,縣市,預報,天氣,氣象,地圖,溫度,降雨機率" name="Keywords"/>
+  <!--tw.gov_meta_end-->
+  <!--common_css_begin-->
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="中央氣象局" name="application-name"/>
+  <meta content="/V8/assets/img/win10/cwbPinlogo.png" name="msapplication-TileImage"/>
+  <meta content="/V8/assets/img/win10/cwbPinlogo70.png" name="msapplication-square70x70logo"/>
+  <meta content="/V8/assets/img/win10/cwbPinlogo150.png" name="msapplication-square150x150logo"/>
+  <meta content="/V8/assets/img/win10/cwbPinlogo310.png" name="msapplication-square310x310logo"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="/V8/assets/plugins/bootstrap/css/bootstrap.min.css?v=20191223" rel="stylesheet"/>
+  <link href="/V8/assets/plugins/font-awesome/css/font-awesome.min.css?v=20191223" rel="stylesheet"/>
+  <link href="/V8/assets/plugins/cwb-fonticon/style.css?v=20191223" rel="stylesheet"/>
+  <link href="/V8/assets/plugins/plugins.css?v=20191223" rel="stylesheet"/>
+  <link href="/V8/assets/css/main.css?v=20200415" rel="stylesheet"/>
+  <!--common_css_end-->
+  <!-- =============== CSS Customization =============== -->
+  <link href="/V8/assets/css/main-map.css?v=20200311" rel="stylesheet"/>
+ </head>
+ <body>
+  <a class="focusable" href="#center-content" tabindex="1" title="跳到主要內容區塊">
+   跳到主要內容區塊
+  </a>
+  <noscript>
+   <h2>
+    您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態。
+   </h2>
+  </noscript>
+  <!--=== Header ===-->
+  <header class="header" id="header">
+   <div class="flex-menu-wrap container">
+    <div class="flex-menu">
+     <div class="menu-list">
+      <!-- Logo -->
+      <h1>
+       <a aria-label="交通部中央氣象局" class="logo" href="/V8/C/" tabindex="1" target="_self">
+        <img alt="交通部中央氣象局標誌" class="img-responsive" src="/V8/assets/img/cwb-logoBlue.svg"/>
+       </a>
+      </h1>
+      <!-- End Logo -->
+      <!-- 上方選單區 -->
+      <div class="topbar">
+       <ul class="loginbar">
+        <li class="hidden-sm hidden-xs">
+         <a accesskey="U" class="acc" href="#top-nav" id="top-nav" tabindex="2" title=":::上方選單區導盲磚">
+          :::
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a href="/V8/C/" tabindex="3" target="_self" title="回首頁">
+          回首頁
+         </a>
+        </li>
+        <li>
+         <a href="/eng/" tabindex="4" target="_self" title="英文版">
+          EN
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a href="/V8/C/sitemap.html" tabindex="5" target="_self" title="網站導覽">
+          網站導覽
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a href="/V8/C/S/email.html" tabindex="6" target="_self" title="意見箱">
+          意見箱
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a href="/V8/C/K/CommonFaq/index.html" tabindex="7" target="_self" title="常見問答">
+          常見問答
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a href="/V8/C/A/about_menu.html" tabindex="8" target="_self" title="關於本局">
+          關於本局
+         </a>
+        </li>
+        <li id="ShareBtn">
+         <a aria-label="分享此頁面" href="javascript:void(0)" role="button" tabindex="9" title="">
+          <i class="fa fa-share-alt">
+          </i>
+         </a>
+         <div class="main-share">
+          <ul>
+           <li class="share-fb">
+            <a aria-label="分享到FB(另開新視窗)" href="https://www.facebook.com/sharer/sharer.php?u=https://www.cwb.gov.tw/V8/C/W/County/index.html" tabindex="10" target="_blank">
+             <i class="fa fa-facebook">
+             </i>
+            </a>
+           </li>
+           <li class="share-line">
+            <!-- 如果有 target="_blank" 瀏覽器可能會出現已封鎖彈出視窗, 不好看-->
+            <a aria-label="分享到Line(另開新視窗)" href="javascript:void(0)" tabindex="11">
+             <i class="icon-line">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a aria-label="列印此頁面" href="javascript:void(0)" onclick="window.print();return false;" role="button" tabindex="12">
+          <i class="fa fa-print">
+          </i>
+         </a>
+        </li>
+        <li class="hidden-sm hidden-xs">
+         <a aria-label="設定" href="javascript:void(0)" id="weather-func-change" role="button" tabindex="13">
+          <i class="fa fa-cog">
+          </i>
+         </a>
+        </li>
+        <li>
+         <a aria-label="搜尋" href="javascript:void(0)" id="web-search" role="button" tabindex="17">
+          <i aria-hidden="true" class="fa fa-times" style="display: none;">
+          </i>
+          <i aria-hidden="true" class="fa fa-search">
+          </i>
+         </a>
+        </li>
+       </ul>
+       <div class="switch-wrap">
+        <div class="check-block">
+         <span>
+          溫度顯示
+         </span>
+         <a aria-label="溫度顯示" href="javascript:void(0)" id="temp_select" tabindex="14">
+          <div class="switch-ui animate">
+           <input aria-label="溫度切換" checked="" class="switch-ui-checkbox" id="checkbox-1" name="switch-ui" type="checkbox"/>
+           <label class="switch-ui-label" for="checkbox-1">
+            <span class="switch-ui-inner tem">
+            </span>
+            <span class="switch-ui-switch">
+            </span>
+           </label>
+          </div>
+         </a>
+        </div>
+        <div class="check-block">
+         <span>
+          風力顯示
+         </span>
+         <a aria-label="風力顯示" href="javascript:void(0)" id="wind_select" tabindex="15">
+          <div class="switch-ui animate">
+           <input aria-label="風力切換" checked="" class="switch-ui-checkbox" id="checkbox-2" name="switch-ui" type="checkbox"/>
+           <label class="switch-ui-label" for="checkbox-2">
+            <span class="switch-ui-inner wind">
+            </span>
+            <span class="switch-ui-switch">
+            </span>
+           </label>
+          </div>
+         </a>
+        </div>
+        <a aria-label="關閉" class="close" href="javascript:void(0)" id="weather_close" role="button" tabindex="16">
+         <i class="fa fa-times">
+         </i>
+        </a>
+       </div>
+      </div>
+      <!-- End 上方選單區 -->
+      <!-- Toggle get grouped for better mobile display -->
+      <div class="mobile-toggle">
+       <!-- <div id="warning_wrap_m" class="warning_wrap visible-sm visible-xs">
+          <a href="javascript:void(0)" role="button" aria-label="警特報">
+            <i class="fa fa-exclamation-triangle"></i>
+          </a>
+          <div class="warning_information">
+            <h3>警特報</h3>
+            <ol class="warnlist"></ol>
+          </div>
+        </div> -->
+       <div aria-label="手機版選單" class="hamburger hamburger--slider" data-target=".navbar-responsive-collapse" data-toggle="collapse" role="button">
+        <div class="hamburger-box" tabindex="28">
+         <div class="hamburger-inner">
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- End Toggle -->
+     </div>
+     <!--/end container-->
+     <!-- Collect the nav links, forms, and other content for toggling -->
+     <div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+      <ul class="nav navbar-nav" id="menu-list-li">
+       <!-- 網站服務 -->
+       <li class="dropdown mega-menu-fullwidth visible-xs visible-sm" tabindex="18">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         網站服務
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons">
+           <div class="weather-index">
+            <div class="col-sm-12 col-xs-12 padding-0">
+             <div class="equal-height equal-inpage">
+              <div class="equal-height-in">
+               <ul class="list-unstyled equal-height-list">
+                <!-- 網站導覽 -->
+                <li>
+                 <h3>
+                  <a href="/V8/C/sitemap.html">
+                   <i class="icon-menu-lightning">
+                   </i>
+                   網站導覽
+                  </a>
+                 </h3>
+                </li>
+                <!-- End 網站導覽  -->
+                <!-- 意見箱 -->
+                <li>
+                 <h3>
+                  <a href="/V8/C/S/email.html">
+                   <i class="icon-menu-lightning">
+                   </i>
+                   意見箱
+                  </a>
+                 </h3>
+                </li>
+                <!-- End 意見箱  -->
+                <!-- 常見問答 -->
+                <li>
+                 <h3>
+                  <a href="/V8/C/K/CommonFaq/index.html">
+                   <i class="icon-menu-lightning">
+                   </i>
+                   常見問答
+                  </a>
+                 </h3>
+                </li>
+                <!-- End 常見問答  -->
+                <!-- 關於本局 -->
+                <li>
+                 <h3>
+                  <a href="/V8/C/A/about_menu.html">
+                   <i class="icon-menu-lightning">
+                   </i>
+                   關於本局
+                  </a>
+                 </h3>
+                </li>
+                <!-- End 關於本局  -->
+                <!-- 設定 -->
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" id="weather-func-change_sm">
+                   <i class="icon-menu-lightning">
+                   </i>
+                   設定
+                  </a>
+                 </h3>
+                 <div class="switch-wrap sm_open">
+                  <div class="check-block">
+                   <span>
+                    溫度顯示
+                   </span>
+                   <a aria-label="溫度顯示" href="javascript:void(0)" id="temp_select_sm">
+                    <div class="switch-ui animate">
+                     <input aria-label="溫度切換" checked="" class="switch-ui-checkbox" id="checkbox-1_sm" name="switch-ui" type="checkbox"/>
+                     <label class="switch-ui-label" for="checkbox-1_sm">
+                      <span class="switch-ui-inner tem">
+                      </span>
+                      <span class="switch-ui-switch">
+                      </span>
+                     </label>
+                    </div>
+                   </a>
+                  </div>
+                  <div class="check-block">
+                   <span>
+                    風力顯示
+                   </span>
+                   <a aria-label="風力顯示" href="javascript:void(0)" id="wind_select_sm">
+                    <div class="switch-ui animate">
+                     <input aria-label="風力切換" checked="" class="switch-ui-checkbox" id="checkbox-2_sm" name="switch-ui" type="checkbox"/>
+                     <label class="switch-ui-label" for="checkbox-2_sm">
+                      <span class="switch-ui-inner wind">
+                      </span>
+                      <span class="switch-ui-switch">
+                      </span>
+                     </label>
+                    </div>
+                   </a>
+                  </div>
+                 </div>
+                </li>
+                <!-- End 設定  -->
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <!-- End 網站服務 -->
+       <li class="dropdown mega-menu-fullwidth" tabindex="19">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         警特報
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                警特報
+               </span>
+               <div class="header_icon-prevent">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="天氣警特報">
+                    天氣警特報
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/P/Warning/FIFOWS.html" title="天氣警特報">
+                     天氣警特報
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W29.html" title="高溫資訊">
+                     高溫資訊
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W23.html" title="熱帶性低氣壓特報">
+                     熱帶性低氣壓特報
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W24.html" title="大規模或劇烈豪雨">
+                     大規模或劇烈豪雨
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W33.html" title="大雷雨即時訊息">
+                     大雷雨即時訊息
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W34.html" title="即時天氣訊息">
+                     即時天氣訊息
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Warning/W37.html" title="長浪即時訊息">
+                     長浪即時訊息
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="颱風">
+                    颱風
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/P/Typhoon/TY_WIND.html" title="颱風強風告警">
+                     颱風強風告警
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Typhoon/TY_WARN.html" title="颱風警報">
+                     颱風警報
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Typhoon/TY_NEWS.html" title="颱風消息">
+                     颱風消息
+                    </a>
+                   </li>
+                   <li>
+                    <a href="http://rdc28.cwb.gov.tw/TDB/public/warning_typhoon_list/" target="_blank" title="歷史颱風, 另開新視窗">
+                     歷史颱風
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="http://rdc28.cwb.gov.tw/TDB/" target="_blank" title="颱風資料庫, 另開新視窗">
+                     颱風資料庫
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/surge.html" title="暴潮預報">
+                     暴潮預報
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://qpeplus.cwb.gov.tw/" target="_blank" title="劇烈天氣監測, 另開新視窗">
+                    劇烈天氣監測
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/P/watch_waves.html" title="浪高潮位監測">
+                    浪高潮位監測
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/P/QPF.html" title="定量降水預報">
+                    定量降水預報
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="雨量觀測">
+                    雨量觀測
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_QZJ.html" title="日累積圖">
+                     日累積圖
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_QZT.html" title="小時累積圖">
+                     小時累積圖
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_Area.html" title="區域圖">
+                     區域圖
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_Top100.html" title="前100名資料">
+                     前100名資料
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_10Min_County.html" title="10分鐘資料">
+                     10分鐘資料
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_Hour.html?ID=00" title="整點小時資料">
+                     整點小時資料
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_CountyMax.html" title="各縣市最大值">
+                     各縣市最大值
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/P/Rainfall/Rainfall_Dam.html" title="雨量與水庫">
+                     雨量與水庫
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://app.cwb.gov.tw/web/CountyGovRain/" target="_blank" title="縣市政府雨量資訊, 另開新視窗">
+                     縣市政府雨量資訊
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/E/index.html" title="地震報告">
+                    地震報告
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/tsunami" target="_blank" title="海嘯, 另開新視窗">
+                    海嘯
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/P/PWS/PWS.html" title="災防訊息彙整">
+                    災防訊息彙整
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/Data/prevent/alert_color.pdf" target="_blank" title="警特報顏色燈號, 另開新視窗">
+                    警特報顏色燈號
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/Data/prevent/taiwan_prevent.pdf" target="_blank" title="災害性天氣定義, 另開新視窗">
+                    災害性天氣定義
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/P/conference.html" title="防災研討會">
+                    防災研討會
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <!-- 天氣與觀測 -->
+       <li class="dropdown mega-menu-fullwidth" tabindex="20">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         天氣
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons">
+           <div class="weather-index">
+            <div class="col-md-3 citytownlink padding-0 bg-white">
+             <div class="equal-title">
+              <div class="menu-tabs">
+               <form action="/V8/C/W/County/County.html" class="sky-form" id="megacity">
+                <section class="col-xs-12">
+                 <p>
+                  縣市預報
+                 </p>
+                 <label class="select">
+                  <!-- <select onchange="location.href=this.options[this.selectedIndex].value"> -->
+                  <select name="CID">
+                   <option disabled="" selected="" value="">
+                    選擇縣市
+                   </option>
+                   <option value="overall">
+                    總覽
+                   </option>
+                   <option value="10017">
+                    基隆市
+                   </option>
+                   <option value="63">
+                    臺北市
+                   </option>
+                   <option value="65">
+                    新北市
+                   </option>
+                   <option value="68">
+                    桃園市
+                   </option>
+                   <option value="10018">
+                    新竹市
+                   </option>
+                   <option value="10004">
+                    新竹縣
+                   </option>
+                   <option value="10005">
+                    苗栗縣
+                   </option>
+                   <option value="66">
+                    臺中市
+                   </option>
+                   <option value="10007">
+                    彰化縣
+                   </option>
+                   <option value="10008">
+                    南投縣
+                   </option>
+                   <option value="10009">
+                    雲林縣
+                   </option>
+                   <option value="10020">
+                    嘉義市
+                   </option>
+                   <option value="10010">
+                    嘉義縣
+                   </option>
+                   <option value="67">
+                    臺南市
+                   </option>
+                   <option value="64">
+                    高雄市
+                   </option>
+                   <option value="10013">
+                    屏東縣
+                   </option>
+                   <option value="10002">
+                    宜蘭縣
+                   </option>
+                   <option value="10015">
+                    花蓮縣
+                   </option>
+                   <option value="10014">
+                    臺東縣
+                   </option>
+                   <option value="10016">
+                    澎湖縣
+                   </option>
+                   <option value="09020">
+                    金門縣
+                   </option>
+                   <option value="09007">
+                    連江縣
+                   </option>
+                  </select>
+                  <i aria-hidden="true">
+                  </i>
+                 </label>
+                </section>
+                <section class="col-xs-12">
+                 <!-- <a href="javascript:void(0)" role="button" class="btn btn-default btn-block">確定</a> -->
+                 <button class="btn btn-default btn-block mb-25r" type="submit">
+                  確定
+                 </button>
+                </section>
+               </form>
+               <form action="/V8/C/W/Town/Town.html" class="sky-form" id="megatown">
+                <section class="col-xs-12">
+                 <p>
+                  鄉鎮預報
+                 </p>
+                 <label class="select">
+                  <select>
+                   <option disabled="" selected="" value="">
+                    選擇縣市
+                   </option>
+                   <option value="overall">
+                    總覽
+                   </option>
+                   <option value="10017">
+                    基隆市
+                   </option>
+                   <option value="63">
+                    臺北市
+                   </option>
+                   <option value="65">
+                    新北市
+                   </option>
+                   <option value="68">
+                    桃園市
+                   </option>
+                   <option value="10018">
+                    新竹市
+                   </option>
+                   <option value="10004">
+                    新竹縣
+                   </option>
+                   <option value="10005">
+                    苗栗縣
+                   </option>
+                   <option value="66">
+                    臺中市
+                   </option>
+                   <option value="10007">
+                    彰化縣
+                   </option>
+                   <option value="10008">
+                    南投縣
+                   </option>
+                   <option value="10009">
+                    雲林縣
+                   </option>
+                   <option value="10020">
+                    嘉義市
+                   </option>
+                   <option value="10010">
+                    嘉義縣
+                   </option>
+                   <option value="67">
+                    臺南市
+                   </option>
+                   <option value="64">
+                    高雄市
+                   </option>
+                   <option value="10013">
+                    屏東縣
+                   </option>
+                   <option value="10002">
+                    宜蘭縣
+                   </option>
+                   <option value="10015">
+                    花蓮縣
+                   </option>
+                   <option value="10014">
+                    臺東縣
+                   </option>
+                   <option value="10016">
+                    澎湖縣
+                   </option>
+                   <option value="09020">
+                    金門縣
+                   </option>
+                   <option value="09007">
+                    連江縣
+                   </option>
+                  </select>
+                  <i aria-hidden="true">
+                  </i>
+                 </label>
+                </section>
+                <section class="col-xs-12">
+                 <label class="select">
+                  <!-- <select onchange="location.href=this.options[this.selectedIndex].value"> -->
+                  <select name="TID">
+                   <option disabled="" selected="" value="">
+                    請先選擇縣市
+                   </option>
+                  </select>
+                  <i aria-hidden="true">
+                  </i>
+                 </label>
+                </section>
+                <section class="col-xs-12">
+                 <!-- <a role="button" class="btn btn-default btn-block">確定</a> -->
+                 <button class="btn btn-default btn-block mb-25r" type="submit">
+                  確定
+                 </button>
+                </section>
+               </form>
+              </div>
+             </div>
+            </div>
+            <div class="col-md-9 padding-0">
+             <div class="equal-height equal-inpage">
+              <div class="equal-height-in">
+               <ul class="list-unstyled equal-height-list">
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" title="全臺概況預報">
+                   全臺概況預報
+                   <i aria-hidden="true" class="fa fa-caret-down">
+                   </i>
+                  </a>
+                 </h3>
+                 <ul class="list-unstyled sublevel-2">
+                  <li>
+                   <a href="/V8/C/W/index.html" title="天氣概況">
+                    天氣概況
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/week.html" title="1週預報">
+                    1週預報
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/MFC_UVI_Map.html" title="紫外線預報">
+                    紫外線預報
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/analysis.html" title="分析預測圖">
+                    分析預測圖
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/pdf.html" style="text-transform: none;" title="相關PDF">
+                    相關PDF
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/world.html" title="國際都市">
+                   國際都市
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/long.html" title="長期預報">
+                   長期預報
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="https://app.cwb.gov.tw/web/cwbwifi/" target="_blank" title="風場預報動態, 另開新視窗">
+                   風場預報動態
+                   <i aria-hidden="true" class="icon-open">
+                   </i>
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/AtmosPollution.html" title="境外汙染傳輸趨勢">
+                   境外汙染傳輸趨勢
+                  </a>
+                 </h3>
+                </li>
+               </ul>
+              </div>
+              <div class="equal-height-in">
+               <ul class="list-unstyled equal-height-list">
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" title="目前天氣觀測">
+                   目前天氣觀測
+                   <i aria-hidden="true" class="fa fa-caret-down">
+                   </i>
+                  </a>
+                 </h3>
+                 <ul class="list-unstyled sublevel-2">
+                  <li class="hidden-sm hidden-xs">
+                   <a href="/V8/C/W/OBS_Map.html" title="最新天氣">
+                    最新天氣
+                   </a>
+                  </li>
+                  <li class="hidden-xl hidden-lg hidden-md">
+                   <a href="/V8/C/W/OBS_Map.html" title="最新天氣">
+                    最新天氣
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/OBS_County.html?ID=menu" title="縣市測站列表">
+                    縣市測站列表
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/OBS_Top.html" title="天氣排行榜">
+                    天氣排行榜
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/OBS_Lightning.html" title="即時閃電">
+                   即時閃電
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" title="溫度觀測">
+                   溫度觀測
+                   <i aria-hidden="true" class="fa fa-caret-down">
+                   </i>
+                  </a>
+                 </h3>
+                 <ul class="list-unstyled sublevel-2">
+                  <li>
+                   <a href="/V8/C/W/OBS_Temp.html" title="溫度分布圖">
+                    溫度分布圖
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/OBS_Top100.html" title="前100名溫度">
+                    前100名溫度
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/County_TempTop.html" title="縣市溫度極值">
+                    縣市溫度極值
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/OBS_UVI.html" title="紫外線觀測">
+                   紫外線觀測
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="https://app.cwb.gov.tw/web/WindSpeed/WindSpeed_All.html" target="_blank" title="風速觀測, 另開新視窗">
+                   風速觀測
+                   <i aria-hidden="true" class="icon-open">
+                   </i>
+                  </a>
+                 </h3>
+                </li>
+               </ul>
+              </div>
+              <div class="equal-height-in">
+               <ul class="list-unstyled equal-height-list">
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" title="衛星雲圖">
+                   衛星雲圖
+                   <i aria-hidden="true" class="fa fa-caret-down">
+                   </i>
+                  </a>
+                 </h3>
+                 <ul class="list-unstyled sublevel-2">
+                  <li>
+                   <a href="/V8/C/W/OBS_Sat.html?Area=0" title="全景">
+                    全景
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/OBS_Sat.html?Area=1" title="東亞">
+                    東亞
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/W/OBS_Sat.html?Area=2" title="臺灣">
+                    臺灣
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/OBS_Radar.html" title="雷達回波">
+                   雷達回波
+                  </a>
+                 </h3>
+                </li>
+                <li>
+                 <h3>
+                  <a href="javascript:void(0)" title="雨量觀測">
+                   雨量觀測
+                   <i aria-hidden="true" class="fa fa-caret-down">
+                   </i>
+                  </a>
+                 </h3>
+                 <ul class="list-unstyled sublevel-2">
+                  <li>
+                   <a href="/V8/C/P/Rainfall/Rainfall_QZJ.html" title="日累積圖">
+                    日累積圖
+                   </a>
+                  </li>
+                  <li>
+                   <a href="/V8/C/P/Rainfall/Rainfall_QZT.html" title="小時累積圖">
+                    小時累積圖
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li>
+                 <h3>
+                  <a href="/V8/C/W/graph_collection.html" title="最新天氣圖資">
+                   最新天氣圖資
+                  </a>
+                 </h3>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="21">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         生活
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                生活
+               </span>
+               <div class="header_icon-life">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="休閒旅遊">
+                    休閒旅遊
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/L/Beach/Beach.html" title="海水浴場">
+                     海水浴場
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Port/Port.html" title="主要港口">
+                     主要港口
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Harbors/Harbors.html" title="休閒漁港">
+                     休閒漁港
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Fishing/Fishing.html" title="海釣">
+                     海釣
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Biking/Biking.html" title="單車">
+                     單車
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Mountain/Mountain.html" title="登山">
+                     登山
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/StarView/StarView.html" title="觀星">
+                     觀星
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Ballpark/Ballpark.html" title="棒球場">
+                     棒球場
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/NatPark/NatPark.html" title="國家公園">
+                     國家公園
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/NatScenic/NatScenic.html" title="國家風景區">
+                     國家風景區
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/NatForest/NatForest.html" title="國家森林遊樂區">
+                     國家森林遊樂區
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Farm/Farm.html" title="農場旅遊">
+                     農場旅遊
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/L/Reservoir/Reservoir.html" title="主要水庫">
+                     主要水庫
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://south.cwb.gov.tw/" target="_blank" title="南區氣象服務, 另開新視窗">
+                    南區氣象服務
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Hakka/index.html" title="客庄氣象">
+                    客庄氣象
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Tribes/index.html" title="原鄉部落">
+                    原鄉部落
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Farming_index.html" title="農業">
+                    農業
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Fishery_index.html" title="漁業">
+                    漁業
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://app.cwb.gov.tw/SEV_checkin/" target="_blank" title="打卡報天氣, 另開新視窗">
+                    打卡報天氣
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://wede.cwb.gov.tw/" target="_blank" title="氣象隨選平台, 另開新視窗">
+                    氣象隨選平台
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="22">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         地震
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                地震
+               </span>
+               <div class="header_icon-earthquake">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/E/index.html" title="最近地震">
+                    最近地震
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/earthquake/world" target="_blank" title="全球地震, 另開新視窗">
+                    全球地震
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/earthquake/data" target="_blank" title="地震活動彙整, 另開新視窗">
+                    地震活動彙整
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/guidance/faq" target="_blank" title="地震百問, 另開新視窗">
+                    地震百問
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/page/intro/16" target="_blank" title="技術報告, 另開新視窗">
+                    技術報告
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/station" target="_blank" title="地震測站, 另開新視窗">
+                    地震測站
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/page/intro/11" target="_blank" title="地震防護, 另開新視窗">
+                    地震防護
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/page/disaster" target="_blank" title="災害地震, 另開新視窗">
+                    災害地震
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://scweb.cwb.gov.tw/zh-tw/page/topic" target="_blank" title="地震話題, 另開新視窗">
+                    地震話題
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="23">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         海象
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                海象
+               </span>
+               <div class="header_icon-ocean">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://safesee.cwb.gov.tw" target="_blank" title="航行海象, 另開新視窗">
+                    航行海象
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/TownCoastal/TownCoastal_Map.html" title="鄉鎮沿海">
+                    鄉鎮沿海
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/NSea.html" title="臺灣近海">
+                    臺灣近海
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/FSea.html" title="遠洋漁業">
+                    遠洋漁業
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/OBS_Marine.html" title="即時海況">
+                    即時海況
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/bluehighway_home.html" title="藍色公路">
+                    藍色公路
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Harbors/Harbors.html" title="休閒漁港">
+                    休閒漁港
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/L/Port/Port.html" title="主要港口">
+                    主要港口
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/M/wave.html" title="波浪分析預報圖">
+                    波浪分析預報圖
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="潮汐預報">
+                    潮汐預報
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/M/tide.html" title="潮汐預報">
+                     潮汐預報
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/M/tide_full.html" title="滿潮預報圖">
+                     滿潮預報圖
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/M/tide_height.html" title="潮高預報圖">
+                     潮高預報圖
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="24">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         氣候
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                氣候
+               </span>
+               <div class="header_icon-weather">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="氣候統計">
+                    氣候統計
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/C/Statistics/monthlymean.html" title="氣候月平均">
+                     氣候月平均
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/Statistics/monthlydata.html" title="每月氣象">
+                     每月氣象
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/MMC_STAT/sta_tide.html" title="潮位統計">
+                     潮位統計
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/MMC_STAT/sta_wave.html" title="波浪統計">
+                     波浪統計
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/MMC_STAT/sta_sea.html" title="海溫統計">
+                     海溫統計
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/Statistics/OZone.html" title="每月臭氧">
+                     每月臭氧
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/Statistics/obsorder.html" title="氣象觀測要素排序">
+                     氣象觀測要素排序
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/Statistics/TempGraph_monthmean.html" title="月平均分布圖">
+                     月平均分布圖
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Forecast/" title="短期氣候預測">
+                    短期氣候預測
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Watch/" title="氣候監測">
+                    氣候監測
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Taiwan/" title="臺灣氣候">
+                    臺灣氣候
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Knowledge/" title="瞭解氣候">
+                    瞭解氣候
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Change/" title="氣候變遷">
+                    氣候變遷
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/C/Info/" title="氣候研究與應用推廣">
+                    氣候研究與應用推廣
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="25">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         資料
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                資料
+               </span>
+               <div class="header_icon-application">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://opendata.cwb.gov.tw/" target="_blank" title="氣象資料開放平臺, 另開新視窗">
+                    氣象資料開放平臺
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://e-service.cwb.gov.tw/wdps/" target="_blank" title="資料申購, 另開新視窗">
+                    資料申購
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/DailyPrecipitation.html" title="每日雨量">
+                    每日雨量
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/phRain.html" style="text-transform: none;" title="每日雨水pH值">
+                    每日雨水pH值
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/UVIHistory.html" title="每日紫外線">
+                    每日紫外線
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp" target="_blank" title="觀測資料查詢, 另開新視窗">
+                    觀測資料查詢
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/astronomy_data.html" title="天文資料下載">
+                    天文資料下載
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/publication.html" title="研究出版與年報">
+                    研究出版與年報
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/D/wallpaper.html" title="桌布下載">
+                    桌布下載
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://npd.cwb.gov.tw/" target="_blank" title="氣象/海象預報模擬圖, 另開新視窗">
+                    氣象/海象預報模擬圖
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="政府資訊">
+                    政府資訊
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/D/notice.html" title="政府資訊主動公開">
+                     政府資訊主動公開
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/D/notice_file.html" title="檔案應用服務">
+                     檔案應用服務
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/D/internal_controls.html" title="內部控制制度聲明書">
+                     內部控制制度聲明書
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/D/eco_check.html" title="生態檢核專區">
+                     生態檢核專區
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://near.archives.gov.tw/" target="_blank" title="機關檔案目錄, 另開新視窗">
+                     機關檔案目錄
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://law.moj.gov.tw/" target="_blank" title="全國法規資料庫, 另開新視窗">
+                     全國法規資料庫
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://gazette.nat.gov.tw/egFront/index.do" target="_blank" title="行政院公報, 另開新視窗">
+                     行政院公報
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="26">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         知識與天文
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                知識與天文
+               </span>
+               <div class="header_icon-astronomical">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="氣象百科">
+                    氣象百科
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/nous/index.html" title="氣象常識">
+                     氣象常識
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/inst/index.html" title="氣象儀器">
+                     氣象儀器
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/typhoon/index.html" title="颱風百問">
+                     颱風百問
+                    </a>
+                   </li>
+                   <li>
+                    <a href="https://scweb.cwb.gov.tw/zh-tw/guidance/faq" target="_blank" title="地震百問, 另開新視窗">
+                     地震百問
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/astronomy/index.html" title="天文百問">
+                     天文百問
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/climate/index.html" title="氣候百問">
+                     氣候百問
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Encyclopedia/sea/index.html" title="海象問答">
+                     海象問答
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/K/Qa/index.html" title="氣候變遷問答">
+                     氣候變遷問答
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/C/Knowledge/knowledge_5.html" title="氣候講堂">
+                     氣候講堂
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/astronomy_month.html" title="每月星象">
+                    每月星象
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/astronomy_day.html" title="每日天文">
+                    每日天文
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/Sat_Topic.html?Type=Tab0&amp;ID=0&amp;From=0" title="衛星雲圖精選">
+                    衛星雲圖精選
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/CommonFaq/index.html" title="常見問答">
+                    常見問答
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://edu.cwb.gov.tw/PopularScience/" target="_blank" title="數位科普, 另開新視窗">
+                    數位科普
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/announce.html" title="宣導">
+                    宣導
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/bilingual_glossary.html" title="雙語詞彙">
+                    雙語詞彙
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/hottopic.html" title="討論話題">
+                    討論話題
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/K/audiobook.html" title="有聲書專區">
+                    有聲書專區
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+       <li class="dropdown mega-menu-fullwidth" tabindex="27">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);">
+         常用服務
+        </a>
+        <ul class="dropdown-menu" style="display: none;">
+         <li>
+          <div class="mega-menu-content disable-icons mega-menu-inpage">
+           <div class="container">
+            <div class="row">
+             <div class="col-md-3">
+              <div class="equal-title">
+               <span>
+                常用服務
+               </span>
+               <div class="header_icon-knowledge">
+               </div>
+              </div>
+             </div>
+             <div class="col-md-9">
+              <div class="equal-height equal-inpage">
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="/V8/C/S/news_data.html" title="最新消息">
+                    最新消息
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/S/service_guide.html" title="服務窗口">
+                    服務窗口
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/S/visit_cwb.html" title="參觀氣象局">
+                    參觀氣象局
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/S/hotlink.html" title="好站介紹">
+                    好站介紹
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="/V8/C/S/hotlink_cwb.html" title="更多本局網頁服務">
+                    更多本局網頁服務
+                    <span style="color:red; padding: 2px; border:red 1px solid; font-size:0.6em;">
+                     NEW
+                    </span>
+                   </a>
+                  </h3>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="https://exas.cwb.gov.tw/exas_service/Appeals/Appeals.aspx" target="_blank" title="訴願案件申請, 另開新視窗">
+                    訴願案件申請
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="https://exas.cwb.gov.tw/exas/AttDownload/AttDownload.html" target="_blank" title="公文附件下載, 另開新視窗">
+                    公文附件下載
+                    <i aria-hidden="true" class="icon-open">
+                    </i>
+                   </a>
+                  </h3>
+                 </li>
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="滿意度調查">
+                    滿意度調查
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="https://forms.gle/zQM7s3hS6huF9hRN8" target="_blank" title="填寫調查問卷, 另開新視窗">
+                     填寫調查問卷
+                     <i aria-hidden="true" class="icon-open">
+                     </i>
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+               <div class="equal-height-in">
+                <ul class="list-unstyled equal-height-list">
+                 <li>
+                  <h3>
+                   <a href="javascript:void(0)" title="多元服務">
+                    多元服務
+                    <i aria-hidden="true" class="fa fa-caret-down">
+                    </i>
+                   </a>
+                  </h3>
+                  <ul class="list-unstyled sublevel-2">
+                   <li>
+                    <a href="/V8/C/S/eservice/member.html" title="會員服務">
+                     會員服務
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/S/eservice/app.html" style="text-transform: none;" title="智慧型手機APP">
+                     智慧型手機APP
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/S/eservice/rss.html" style="text-transform: none;" title="RSS">
+                     RSS
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/S/eservice/facebook.html" style="text-transform: none;" title="Facebook">
+                     Facebook
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/S/eservice/reserve/reserve.html" title="預約氣象服務">
+                     預約氣象服務
+                    </a>
+                   </li>
+                   <li>
+                    <a href="/V8/C/S/Ecard/index.html" title="天氣小叮嚀電子卡">
+                     天氣小叮嚀電子卡
+                    </a>
+                   </li>
+                  </ul>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </li>
+      </ul>
+      <!--/end container-->
+     </div>
+     <!--/navbar-collapse-->
+    </div>
+   </div>
+   <div class="warn-row active">
+    <div class="container">
+     <div class="d-flex position-relative">
+      <div class="warning-list-row">
+       <div class="warning_wrap" id="warning_wrap" tabindex="29">
+        <div class="warning_information">
+         <ol class="warnlist">
+          <li class="warn-bg-gray">
+           <a href="/V8/C/P/Typhoon/TY_WARN.html" role="button" target="_self" title="海上陸上颱風警報">
+            <i aria-hidden="true" class="icon-warn">
+            </i>
+            海上陸上颱風警報
+           </a>
+          </li>
+          <li class="warn-bg-gray">
+           <a href="/V8/C/P/Typhoon/TY_NEWS.html" role="button" target="_self" title="颱風消息">
+            <i aria-hidden="true" class="icon-warn">
+            </i>
+            颱風消息
+           </a>
+          </li>
+          <li>
+           <i aria-hidden="true" class="icon-warn">
+           </i>
+           天氣警特報
+           <ul>
+            <li>
+             <a href="/V8/C/P/Warning/FIFOWS.html" target="_self" title="總覽">
+              <i aria-hidden="true" class="icon-cwb-warn">
+              </i>
+              總覽
+             </a>
+            </li>
+            <li>
+             <a href="/V8/C/P/Warning/W21.html" target="_self" title="海上陸上颱風警報">
+              <i aria-hidden="true" class="icon-warn_typhoon">
+              </i>
+              海上陸上颱風警報
+             </a>
+            </li>
+            <li>
+             <a href="/V8/C/P/Warning/W26.html" target="_self" title="豪雨特報">
+              <i aria-hidden="true" class="icon-warn_rain01">
+              </i>
+              豪雨特報
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ol>
+         <!-- PC -->
+        </div>
+       </div>
+      </div>
+      <div class="warning-btn-outer" id="warn-btn-mb">
+       <button class="warning-btn" title="即時警特報列表(靜態)" type="button">
+        展開
+       </button>
+       <span>
+        3
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="tab-point" tabindex="0">
+   </div>
+   <!-- <label for="search">
+    <input type="search" name="keyword" placeholder="搜尋" id="search" tabindex="16" aria-label="搜尋"/>
+  </label> -->
+   <div class="search-box">
+    <form accept-charset="UTF-8" id="form_search">
+     <!--<a id="search_close" class="close" role="button" aria-label="關閉" href="javascript:void(0)" tabindex="20">-->
+     <a aria-label="關閉" class="close" href="javascript:void(0)" id="search_close" role="button">
+      <i class="fa fa-times">
+      </i>
+     </a>
+     <div class="container">
+      <div class="row">
+       <div class="col-md-6">
+        <div class="box flex-row-nowrap">
+         <label for="search" id="search-label">
+         </label>
+         <!--<input type="hidden" name="q">-->
+         <input accesskey="S" aria-label="請輸入關鍵字" class="form-control" id="search" name="keyword" placeholder="請輸入關鍵字" tabindex="30" type="search"/>
+         <button aria-label="搜尋" class="btn black-btn mx-2 px-3" id="search-button" tabindex="31" type="submit">
+          <i class="fa fa-search">
+          </i>
+         </button>
+        </div>
+       </div>
+       <div class="col-md-6">
+        <div class="hotkeyword" id="popular-queries">
+        </div>
+       </div>
+      </div>
+     </div>
+    </form>
+   </div>
+   <!-- <a id="search_close" class="close" role="button" aria-label="關閉" href="javascript:void(0)" tabindex="17">
+    <i class="fa fa-times"></i>
+  </a> -->
+  </header>
+  <!--=== End Header ===-->
+  <!--=== Breadcrumbs ===-->
+  <div class="breadcrumbs">
+   <div class="container clearconten">
+    <a accesskey="C" class="acc" href="#center-content" id="center-content" title=":::中間內容區導盲磚">
+     :::
+    </a>
+    <ul class="pull-right breadcrumb breadcrumb-left">
+     <li>
+      <a aria-label="首頁" href="/V8/C/index.html" target="_self">
+       <i aria-hidden="true" class="fa fa-home" title="首頁">
+       </i>
+      </a>
+     </li>
+     <li>
+      天氣
+     </li>
+     <li>
+      <a href="/V8/C/W/County/index.html" target="_self">
+       縣市預報
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <!--=== End Breadcrumbs ===-->
+  <div class="main-title-bar">
+   <div class="container">
+    <h2 class="main-title">
+     <i aria-hidden="true" class="icon-cwb-temperature">
+     </i>
+     縣市預報
+    </h2>
+   </div>
+  </div>
+  <!--=== Content Part ===-->
+  <div class="wrapper">
+   <main class="main-content container">
+    <div class="row">
+     <div class="col-md-8">
+      <span class="datetime">
+       發佈時間：
+       <span id="forecastTime">
+        08/10 17:00
+       </span>
+      </span>
+      <div class="map_theme full_map" id="theme-1">
+       <div class="weather_data">
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率80%，請點此進入基隆市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10017" name="C10017" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          基隆市
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率70%，請點此進入臺北市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=63" name="C63" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          臺北市
+         </p>
+        </a>
+        <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率70%，請點此進入新北市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=65" name="C65" target="_self">
+         <span>
+          <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          新北市
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率70%，請點此進入桃園市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=68" name="C68" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          桃園市
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入新竹市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10018" name="C10018" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          新竹市
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入新竹縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10004" name="C10004" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             34
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             93
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          新竹縣
+         </p>
+        </a>
+        <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入苗栗縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10005" name="C10005" target="_self">
+         <span>
+          <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          苗栗縣
+         </p>
+        </a>
+        <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入臺中市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=66" name="C66" target="_self">
+         <span>
+          <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          臺中市
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入彰化縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10007" name="C10007" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          彰化縣
+         </p>
+        </a>
+        <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入南投縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10008" name="C10008" target="_self">
+         <span>
+          <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             26
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             79
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          南投縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率60%，請點此進入雲林縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10009" name="C10009" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             26
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             79
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          雲林縣
+         </p>
+        </a>
+        <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率80%，請點此進入嘉義市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10020" name="C10020" target="_self">
+         <span>
+          <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             24
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             75
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          嘉義市
+         </p>
+        </a>
+        <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率80%，請點此進入嘉義縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10010" name="C10010" target="_self">
+         <span>
+          <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             25
+            </i>
+            ~
+            <i>
+             30
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             77
+            </i>
+            ~
+            <i>
+             86
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          嘉義縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰陣雨或雷雨，降雨機率80%，請點此進入臺南市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=67" name="C67" target="_self">
+         <span>
+          <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             23
+            </i>
+            ~
+            <i>
+             29
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             73
+            </i>
+            ~
+            <i>
+             84
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          臺南市
+         </p>
+        </a>
+        <a aria-label="多雲時陰陣雨或雷雨，降雨機率90%，請點此進入高雄市網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=64" name="C64" target="_self">
+         <span>
+          <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             23
+            </i>
+            ~
+            <i>
+             28
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             73
+            </i>
+            ~
+            <i>
+             82
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          高雄市
+         </p>
+        </a>
+        <a aria-label="陰時多雲陣雨或雷雨，降雨機率90%，請點此進入屏東縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10013" name="C10013" target="_self">
+         <span>
+          <img alt="陰時多雲陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             22
+            </i>
+            ~
+            <i>
+             28
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             72
+            </i>
+            ~
+            <i>
+             82
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          屏東縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率60%，請點此進入宜蘭縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10002" name="C10002" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             26
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             79
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          宜蘭縣
+         </p>
+        </a>
+        <a aria-label="多雲短暫陣雨或雷雨，降雨機率50%，請點此進入花蓮縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10015" name="C10015" target="_self">
+         <span>
+          <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             25
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             77
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          花蓮縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰陣雨或雷雨，降雨機率70%，請點此進入臺東縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10014" name="C10014" target="_self">
+         <span>
+          <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             23
+            </i>
+            ~
+            <i>
+             31
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             73
+            </i>
+            ~
+            <i>
+             88
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          臺東縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰陣雨或雷雨，降雨機率70%，請點此進入澎湖縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=10016" name="C10016" target="_self">
+         <span>
+          <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             24
+            </i>
+            ~
+            <i>
+             32
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             75
+            </i>
+            ~
+            <i>
+             90
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          澎湖縣
+         </p>
+        </a>
+        <a aria-label="陰時多雲陣雨或雷雨，降雨機率100%，請點此進入金門縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=09020" name="C09020" target="_self">
+         <span>
+          <img alt="陰時多雲陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             31
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             88
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          金門縣
+         </p>
+        </a>
+        <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率50%，請點此進入連江縣網頁觀看詳細天氣內容。" class="icon_zone" href="/V8/C/W/County/County.html?CID=09007" name="C09007" target="_self">
+         <span>
+          <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg"/>
+          <span class="temperature">
+           <span class="tem-C is-active">
+            <i>
+             27
+            </i>
+            ~
+            <i>
+             33
+            </i>
+           </span>
+           <span class="tem-F is-hidden">
+            <i>
+             81
+            </i>
+            ~
+            <i>
+             91
+            </i>
+           </span>
+          </span>
+         </span>
+         <p class="city">
+          連江縣
+         </p>
+        </a>
+       </div>
+       <!--=== SVG MAP ===-->
+       <div class="weather_info">
+        <i aria-hidden="true" class="icon-warn">
+        </i>
+        點擊地圖看各縣市詳細資料
+       </div>
+       <svg style="enable-background:new 0 0 400 535;" version="1.1" viewbox="0 0 400 535" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+        <g id="C10017">
+         <desc>
+          基隆市
+         </desc>
+         <path class="st2" d="M315.9,53.9c1.1-0.7,4.2-1.7,7.7-3.2c0.2,0.4,0.4,0.7,0.7,0.9c1.3,1,4,3.1,7.9,4.3c1.2,2.3,0.3,3.6,0.7,6.3
+ c0.4,2.9,0.6,4.4,0,6.4c-0.6,2.1-11.8-0.6-15.3-6C314,57.2,314.4,54.7,315.9,53.9z M371.8,12.4c0.9,2.2,4,2.5,7.1,2.5
+ c3.1,0,0.3,2.5,9,2.5c8.7,0,8.7-2.5,4-5c-4.7-2.5-17.7-7.1-18.6-5.6C372.4,8.3,371.8,12.4,371.8,12.4z">
+         </path>
+        </g>
+        <g id="C65">
+         <desc>
+          新北市
+         </desc>
+         <path class="st1" d="M361.5,72.3c-6.8-0.3-9,0.3-9.3-6.2c1.2-11.2-6.2-9.3-13.7-9.3c-2.4,0-4.5-0.4-6.4-1c1.2,2.3,0.3,3.6,0.7,6.3
+ c0.4,2.9,0.6,4.4,0,6.4c-0.6,2.1-11.8-0.6-15.3-6c-3.5-5.4-3.1-7.9-1.7-8.7c1.1-0.7,4.2-1.7,7.7-3.2c-0.8-1.8-0.2-4.7-3.1-4.4
+ c-3.4,0.3-5.3-2.5-6.2-8.1c-0.9-5.6-15.8-3.1-18.3-2.2c-2.5,0.9-13,13.4-15.8,15.6c0,0-2.2,4.6-3.7,6.1c-1,1-4.1,1.5-7.5,1.6
+ c4.1,3.4,5.5,4.9,8.2,5.9c3.3,1.2,5.6,0.6,6.6,2.9c1,2.3,2.7,5.4,0.8,7.3c-1.9,1.9-5.8,4.3-7.7,3.9c-1.9-0.4-2.1,7.9-1.3,10.4
+ c0.7,2.5,3.8,2.5,2.6,4.6c-1.2,2.1-0.4,5,3.1,4.8c3.5-0.2,5.2,1.4,6.8,2.7c1.7,1.2,3,7,1.2,7.7c-1.8,0.6-1.8,2.5,0.9,5.4
+ c2.7,2.9,3.4,6.8,4.2,7.5c0.4,0.3,0.9,0.5,0.9,0.5c0,0,7,1.1,8-1.8c0.9-2.9,3.4-4.1,6.1-5c2.7-0.8,4.1-1,2.3-4.4
+ c-1.9-3.3-1.4-3.5,0.8-5.8c2.3-2.3,4.5-3.7,6.4-3.7c1.9,0,6.6-1.2,7.3-3.3c0.6-2.1,0.2-2.5,4.3-2.9c4.1-0.4,6.2-4.6,6.6-6
+ c0.4-1.4,2.5-1.9,5-1.9c2.5,0,3.5-3.1,2.1-5c-1.5-1.9-1-3.9,3.7-3.3c4.8,0.6,4.6-3.1,8.3-2.7c1.5,0.2,3.3,0.5,5.1,0.8
+ C364.4,75.6,366.6,72.6,361.5,72.3z M313,75.4c-1.7,1,2.3,5.2,0,5.8c-7.7,0.4-8.1-3.1-11-5c-2.9-1.9-4.3-3.9-4.3-7
+ c0-3-1.4-5.5-5.6-8.4c-4.1-2.9-2.9-5.2-0.8-5.6c2.1-0.4,15-8.2,16.4-8.7c1.4-0.5,2.7,1.9,1.9,3.7c-0.8,1.9,0.2,3.9,1,7.7
+ c0.8,3.7,4.4,2.9,4.3,4.1c0,1.2,1.1,5.2,2.3,9.3C318.4,75.7,314.6,74.4,313,75.4z">
+         </path>
+        </g>
+        <g id="C63">
+         <desc>
+          臺北市
+         </desc>
+         <path class="st2" d="M317.1,71.5c1.2,4.1-2.5,2.9-4.1,3.9c-1.7,1,2.3,5.2,0,5.8c-7.7,0.4-8.1-3.1-11-5c-2.9-1.9-4.3-3.9-4.3-7
+ c0-3-1.4-5.5-5.6-8.4c-4.1-2.9-2.9-5.2-0.8-5.6c2.1-0.4,15-8.2,16.4-8.7c1.4-0.5,2.7,1.9,1.9,3.7c-0.8,1.9,0.2,3.9,1,7.7
+ c0.8,3.7,4.4,2.9,4.3,4.1C314.8,63.4,315.9,67.4,317.1,71.5z">
+         </path>
+        </g>
+        <g id="C68">
+         <desc>
+          桃園市
+         </desc>
+         <path class="st3" d="M287.8,135.2c-1.3,0.1-2.3-0.3-3.7-0.3c-1.9,0-4.1-3.3-5.4-5c-1.2-1.7-5.2-2.3-7.7-3.5c-2.5-1.2,0.4-5,1.7-8.1
+ c1.2-3.1,2.5-9.3,0-9.1c-2.5,0.2-3.5,0.2-5-2.5c-1.5-2.7-3.5-3.5-8.1-4.4c-4.6-0.8-6-4.6-5.6-6.8c0.4-2.3-1.4-2.5-4.6-3.3
+ c-3.1-0.8-6.6-0.6-7.7-5.2c-1-4.6-3.5-2.9-5.7-1.9c-1.5,0.7-4.7,0.1-8.4-0.5c0.6-0.5,1.2-0.9,1.7-1.2c2.2-6.8,14.3-20.5,23.6-19.6
+ c3.4-1.6,5.3-5,10.3-4.7c1.8,0.1,3.7,0.1,5.6,0.1c4.1,3.4,5.5,4.9,8.2,5.9c3.3,1.2,5.6,0.6,6.6,2.9c1,2.3,2.7,5.4,0.8,7.3
+ c-1.9,1.9-5.8,4.3-7.7,3.9c-1.9-0.4-2.1,7.9-1.3,10.4c0.7,2.5,3.8,2.5,2.6,4.6c-1.2,2.1-0.4,5,3.1,4.8c3.5-0.2,5.2,1.4,6.8,2.7
+ c1.7,1.2,3,7,1.2,7.7c-1.8,0.6-1.8,2.5,0.9,5.4c2.7,2.9,3.5,6.9,4.3,7.6c-0.3,0.8-0.5,1.6-0.8,2.3c-0.8,2.3,2.5,5,1.7,7.2
+ c-0.8,2.3-3.6,2.2-5.7,2.8L287.8,135.2">
+         </path>
+        </g>
+        <g id="C10004">
+         <desc>
+          新竹縣
+         </desc>
+         <path class="st2" d="M275.1,157.9c-0.2,0-5.3,1.1-7.4,1.4c0-2-2.5-5.5-3.4-8.1c-1-2.9-2.7-4.4-4.3-5c-1.7-0.6-3.5,1.5-4.6,2.2
+ c-1,0.7-6.4-0.9-10.8-0.1c-4.4,0.8,0.2-4.1-1.5-5c-1.7-0.8-2.3-1.5-1.5-3.7c0.8-2.3,3-7.7,0-8.5c-3-0.8-5.9-4.1-7.8-4.8
+ c-0.9-0.3-3.3-2.1-5.6-4.1c0.2-1.1,0.5-2.1,0.5-2.5c0-1,1.9-4.1,3.9-7c2.1-2.9,4.3-1.9,7.7-2.3c3.3-0.4,0-5.4-2.9-6.8
+ c-2.6-1.3-11.8-4.8-17.2-5.3c0.3-4.7,4.2-10.8,7.6-13.6c3.8,0.6,6.9,1.2,8.4,0.5c2.2-1,4.7-2.7,5.7,1.9c1,4.6,4.6,4.3,7.7,5.2
+ c3.1,0.8,5,1,4.6,3.3c-0.4,2.3,1,6,5.6,6.8c4.6,0.8,6.6,1.7,8.1,4.4c1.4,2.7,2.5,2.7,5,2.5c2.5-0.2,1.2,6,0,9.1
+ c-1.2,3.1-4.1,6.8-1.7,8.1c2.5,1.2,6.4,1.9,7.7,3.5c1.2,1.7,3.5,5,5.4,5c1.4,0,2.4,0.3,3.7,0.3c-0.6,1.9-1.4,3.9-1,5.3
+ c0.6,2.1,0.2,3.6-3.1,5.4c-3.3,1.8-7.5,5.6-7.5,7.4c0,1.8,3.5,3.3,0,4.2L275.1,157.9z">
+         </path>
+        </g>
+        <g id="C10018">
+         <desc>
+          新竹市
+         </desc>
+         <path class="st1" d="M215.3,113.5c0.3-0.3,0.6-0.5,0.9-0.8c3.7-3.7,4-8.4,4-14c0-0.2,0-0.3,0-0.5c5.4,0.5,14.6,4.1,17.2,5.3
+ c2.9,1.5,6.2,6.4,2.9,6.8c-3.3,0.4-5.6-0.6-7.7,2.3c-2.1,2.9-3.9,6-3.9,7c0,0.4-0.2,1.4-0.5,2.5c-2.4-2.1-4.8-4.4-5.7-5.6
+ C221.1,114.9,218.8,114.4,215.3,113.5z">
+         </path>
+        </g>
+        <g id="C10005">
+         <desc>
+          苗栗縣
+         </desc>
+         <path class="st3" d="M182.3,154.3c0.6-1.1,1.6-1.8,3.4-1.8c2.2-0.3,2.5-5.9,3.7-9.3c1.2-3.4,1.6-11.2,6.5-11.5c5-0.3,3.4-3.7,5-5.6
+ c1.6-1.9,3.1-2.8,7.5-2.2c4.3,0.6,1.6-3.1,1.6-5c0-1.7,2.1-2.4,5.4-5.4c3.5,0.8,5.8,1.3,7.2,3.1c0.9,1.3,3.3,3.6,5.7,5.6l0,0
+ c2.4,2,4.7,3.8,5.6,4.1c1.9,0.6,4.8,3.9,7.8,4.8c3,0.8,0.8,6.2,0,8.5c-0.8,2.3-0.2,2.9,1.5,3.7c1.7,0.8-2.9,5.8,1.5,5
+ c4.3-0.8,9.7,0.8,10.8,0.1c1-0.7,2.9-2.8,4.6-2.2c1.7,0.6,3.3,2.1,4.3,5c0.9,2.6,3.4,6,3.4,8.1l0,0c0,0.2,0,0.4-0.1,0.6
+ c-0.6,1.9,1.2,3.5-1.9,4.1c-3.1,0.6-5.3-1.9-6.8,1c-1.5,2.9-3.6,4.6-6.3,6c-2.7,1.5-1,3.7-3.9,3.7c-2.9,0-6.6-0.8-7.1,1.2
+ c-0.6,2.1-4.1,1.4-4.5,0c-0.4-1.5-2.5-2.5-6.2-2.7c-3.7-0.2-6.4-0.4-6.4,1.9c0,2.3-2.7,4.8-7.5,4.1c-4.8-0.6-6-2.1-8.7-3.7
+ c-2.7-1.7-2.9,0.6-8.3-3.9c-5.4-4.6-11.8-8.9-13-11.8C186.2,158.1,184,155.8,182.3,154.3z">
+         </path>
+        </g>
+        <g id="C66">
+         <desc>
+          臺中市
+         </desc>
+         <path class="st1" d="M168.4,194.1c-2.1-0.6-3-1-3.9-1.4c3-4.8,6.1-10.3,6.3-12.2c0.3-3.4,5.3-15.2,8.4-18.6c2-2.2,1.9-5.5,3.1-7.5
+ c1.7,1.5,4,3.8,4.8,5.7c1.2,2.9,7.7,7.2,13,11.8c5.4,4.6,5.6,2.3,8.3,3.9c2.7,1.7,3.9,3.1,8.7,3.7c4.8,0.6,7.5-1.9,7.5-4.1
+ c0-2.3,2.7-2.1,6.4-1.9c3.7,0.2,5.8,1.2,6.2,2.7c0.4,1.4,3.9,2.1,4.5,0c0.6-2.1,4.2-1.2,7.1-1.2c2.9,0,1.2-2.3,3.9-3.7
+ c2.7-1.5,4.8-3.1,6.3-6c1.5-2.9,3.7-0.4,6.8-1c3.1-0.6,1.2-2.3,1.9-4.1c0.1-0.2,0.1-0.4,0.1-0.6c2.1-0.4,4.8-0.9,7.4-1.4
+ c0.2,0,0.4-0.1,0.5-0.1c0.5,1.3,0.8,2.6,0.8,3.4c0.1,1.9,2.4,3.7,3.4,3.1c1-0.6,1.7,2.1,3.5,2.7c1.9,0.6,4.2-2.9,6-2.9
+ s3.6,0.6,4.4,3c0.2,0.6,0.5,1,0.8,1.4c-1.3,4.5-3.2,7.7-4.5,8.5c-1.7,1-4.1,4.8-5,7.3c-0.8,2.5-2.1,0.8-3.5,2.9
+ c-0.5,0.7-0.9,1-1.3,1.2l0,0c-0.8,0.4-1.8,0-3.8-0.2c-3-0.2-5.7-1.9-8.7-0.4c-3,1.4-5.5-0.8-8.7,0.8c-3.2,1.5-4.4,2.1-6.3,3.8
+ c-1.9,1.7-3.1,1-4.8,1.7c-1.7,0.6-2.3,3.9-4.8,4.1c-2.5,0.2-5.4-0.2-5.6,1.9c-0.2,2.1-2.9,4.6-5,4.6c-2.1,0-2.1,0.2-3.5-1.2
+ c-1.5-1.5-1,0.8-3.7,1.3c-2.7,0.4-7.9,0.6-9.7,0c-1.9-0.6-1.9,2.9-2.5,3.7c-0.6,0.8-3.7,10.1-7,12.4c-3.3,2.3-7.5,0.6-11.4,0
+ c-3.5-0.5-4.2-0.6-5.8-1.6l0,0c-0.2-0.1-0.4-0.3-0.7-0.4c-2.1-1.5-2.7-2.1-2.5-4.3c0.2-2.3-1.7-5.6-3.9-6.4
+ c-2.3-0.8-9.5-2.7-9.7-6.6C171.9,197.2,172.1,195.2,168.4,194.1z">
+         </path>
+        </g>
+        <g id="C10008">
+         <desc>
+          南投縣
+         </desc>
+         <path class="st3" d="M280.2,188.3c0.1,3.1-0.3,5.2-2.2,5.6c-2.7,0.6-5.8-0.4-5.8,3.5c0,3.9,2.3,6.4,4.2,7.7c2,1.2,1.7,4.6-0.2,6
+ c-2,1.4-4.2,6.2-4.9,8.1c-0.6,1.9-1.9,3.1,0,6.8c1.9,3.7,1.6,12.6-1,14.5c-2.5,1.9-4,8.5-4.6,10.8c-0.6,2.3-3.3,3.5-1.2,6.2
+ c2.1,2.7,3.3,10.6,0.8,16c-2.5,5.4-4.8,7.5-7,8.1c-2.3,0.6-2.9,2.9-2.9,5.2c0,2.3,1.2,6-1.9,5.6c-3.1-0.4-8.5-1.6-9.7,0
+ c-1.2,1.6-1.9,3.5-1.5,4.9c0.4,1.5,0.8,2.7-0.1,4.1c-0.8,1.3-1.4,1.1-2.7,1.6c0,0-0.3,0.1-0.5,0.2c-1.7,0.8-2.2-3.3-3.1-4.1
+ c-0.8-0.8-5-0.6-8.3-0.6c-0.3,0-0.7,0-1.1,0l0,0c-4-0.2-12.2-1-14.1-1c-2.1,0-0.8-1-1.7-5.4c-0.8-4.4-3.1-5.2,0-9.1
+ c3.1-3.9-0.8-2.9-2.9-3.5c-1.6-0.5-5.2-2.4-7-3.4l0,0c-0.5-0.3-0.9-0.5-1.1-0.6c-0.8-0.4-3.3,0-6.4,1c-3.1,1-3.3,1.4-5.6-1
+ c-2.3-2.5-3.7-2.5-1.2-6.2c2.5-3.7,1.4-5.6,0.6-7c-0.8-1.4,0.6-1,1.7-1.7c1-0.6,1.4-1.4-0.2-3.1c-0.6-0.6-0.8-1.3-0.8-1.9l0,0
+ c0.1-1.1,1.1-2,2.7-2.2c2.5-0.4,6,0,5.4-2.7c-0.6-2.7-3.3-1.7-5.6-2.3c-2.3-0.6-2.7-4.1-4.1-6.2c-1.4-2.1,0.2-8.3,1-10.4
+ c0.8-2.1,0.2-3.3,1.2-5s0.6-1.8,0.2-5c-0.2-1.3,0-2.2,0.2-2.8c1.6,1,2.3,1.1,5.8,1.6c3.9,0.6,8.1,2.3,11.4,0
+ c3.3-2.3,6.4-11.6,7-12.4c0.6-0.8,0.6-4.3,2.5-3.7c1.9,0.6,7,0.4,9.7,0c2.7-0.4,2.3-2.7,3.7-1.3c1.4,1.5,1.4,1.2,3.5,1.2
+ c2.1,0,4.8-2.5,5-4.6c0.2-2.1,3.1-1.7,5.6-1.9c2.5-0.2,3.1-3.5,4.8-4.1c1.7-0.6,2.9,0,4.8-1.7c1.9-1.7,3.1-2.3,6.3-3.8
+ c3.2-1.5,5.7,0.7,8.7-0.8c3-1.5,5.7,0.2,8.7,0.4C278.4,188.3,279.4,188.7,280.2,188.3z">
+         </path>
+        </g>
+        <g id="C10007">
+         <desc>
+          彰化縣
+         </desc>
+         <path class="st2" d="M131.9,248c0.3-0.3,0.7-0.7,1-1c6.5-6.5,11.5-19.3,11.5-23.9c0-4.7,11.2-10.3,11.2-13c0-2.8,0.9-7.1,3.4-9.6
+ c1.1-1,3.3-4.2,5.5-7.7c0.9,0.4,1.9,0.9,3.9,1.4c3.7,1,3.5,3.1,3.7,7c0.2,3.9,7.5,5.8,9.7,6.6c2.3,0.8,4.1,4.1,3.9,6.4
+ c-0.2,2.3,0.4,2.9,2.5,4.3c0.2,0.2,0.5,0.3,0.7,0.4c-0.3,0.6-0.4,1.4-0.2,2.8c0.4,3.2,0.8,3.4-0.2,5s-0.4,2.9-1.2,5
+ c-0.8,2.1-2.5,8.3-1,10.4c1.5,2.1,1.9,5.6,4.1,6.2c2.3,0.6,5-0.4,5.6,2.3c0.6,2.7-2.9,2.3-5.4,2.7c-1.6,0.3-2.6,1.2-2.7,2.2
+ c-2.3-0.5-4.9-1-6.3-1c-2.5,0-7-0.6-8.5-2.1c-1.5-1.5-7.7-1.9-11.2-1.9s-4.8-3.7-7.5-3.1c-2.7,0.6-12.4,0.8-16.2,1
+ C135.9,248.7,133.8,248.3,131.9,248z">
+         </path>
+        </g>
+        <g id="C10009">
+         <desc>
+          雲林縣
+         </desc>
+         <path class="st1" d="M131.9,293.8c5.4,0.4,2.5-6.4,3.9-5c1.5,1.5,4.6-0.2,5.2-2.1c0.6-1.9,0.6-2.7,2.9-2.5c2.3,0.2,2.3-0.6,2.3-2.5
+ c0-1.9,2.9-0.6,5-3.6c2.1-3,8.3-2.4,11.6-3.6c3.3-1.2,6.2-0.2,7,0.8c0.8,1,1.9,3.5,5.2,4.9c3.3,1.3,5.6,0.9,10.3-0.7
+ c4.7-1.7,1.5,3.5,4.2,3.5c2.7,0,8.5-0.8,10.4-1.5c1.1-0.4,1.2-3.2,1.1-5.4c-0.5-0.3-0.9-0.5-1.1-0.6c-0.8-0.4-3.3,0-6.4,1
+ c-3.1,1-3.3,1.4-5.6-1c-2.3-2.5-3.7-2.5-1.2-6.2c2.5-3.7,1.4-5.6,0.6-7c-0.8-1.4,0.6-1,1.7-1.7c1-0.6,1.4-1.4-0.2-3.1
+ c-0.6-0.6-0.8-1.3-0.8-1.9c-2.3-0.5-4.9-1-6.3-1c-2.5,0-7-0.6-8.5-2.1c-1.5-1.5-7.7-1.9-11.2-1.9s-4.8-3.7-7.5-3.1
+ c-2.7,0.6-12.4,0.8-16.2,1c-2.5,0.1-4.6-0.3-6.5-0.6c-5.7,6-7.7,10.5-7.7,15.8c-8.9,8.6-7.1,19.9-5.7,28.9c1.1-0.6,2.5-1.4,4-1.8
+ C125.3,290,126.6,293.3,131.9,293.8z">
+         </path>
+        </g>
+        <g id="C10010">
+         <desc>
+          嘉義縣
+         </desc>
+         <path class="st2" d="M129.3,323.2c2.3-0.4,7.2-6.8,8.1-7.4c0.8-0.5,5.2-5.5,8.5-7.8c3.3-2.3,7.7-1.2,11-2.1c3.3-0.8,5.4,1,9.3,1.5
+ c3.9,0.4,1.5,1.7,1.7,3.3c0.2,1.7,1.2,3.9,3.6,4.1c2.4,0.2,2,2.9,0.9,3.7c-1.1,0.8,0.5,1.9,0.1,7.5c-0.4,5.6,0.8,4.4,1,5
+ c0.2,0.6,4.3,3.1,6,3.1c1.7,0,0.8-3.7,1.2-2.5c0.4,1.2,1.9,0.4,4.7,0.8c1.3,0.2,2.5,0.8,3.3,1.2c0.3-0.2,0.7-0.3,1.1-0.4
+ c-0.8-2.1,0.4-2.9-0.4-4.1c-0.8-1.2-2.3-6.8,0-6.4c2.3,0.4,3.9,4.6,4.6,2.7c0.6-1.9,2.9-3.7,5-3.9c2.1-0.2,3.3-0.6,4.1-2.9
+ c0.8-2.3,8.5-6.4,10.1-7.2c1.7-0.8,3.3-6,4.6-7.6c1.1-1.3,3.3-3.3,8.9-5.3c-4-0.2-12.2-1-14.1-1c-2.1,0-0.8-1-1.7-5.4
+ c-0.8-4.4-3.1-5.2,0-9.1c3.1-3.9-0.8-2.9-2.9-3.5c-1.6-0.5-5.2-2.4-7-3.4c0.1,2.3,0.1,5.1-1.1,5.4c-1.9,0.6-7.7,1.5-10.4,1.5
+ c-2.7,0,0.5-5.2-4.2-3.5c-4.7,1.7-7,2.1-10.3,0.7c-3.3-1.3-4.3-3.8-5.2-4.9c-0.8-1-3.7-2.1-7-0.8c-3.3,1.2-9.5,0.6-11.6,3.6
+ c-2.1,3-5,1.8-5,3.6c0,1.9,0,2.7-2.3,2.5c-2.3-0.2-2.3,0.6-2.9,2.5c-0.6,1.9-3.7,3.5-5.2,2.1c-1.4-1.4,1.5,5.4-3.9,5
+ c-5.4-0.4-6.6-3.7-9.5-2.9c-1.4,0.4-2.9,1.1-4,1.8c0.2,1.1,0.3,2.1,0.5,3.1c1.2,9.3,3.7,14-0.6,18c-2.2,2.1-2.5,3.2-2.1,4.1
+ c2.3,0,5.6,0.6,7.3,1.6C125.9,320.9,127,323.6,129.3,323.2z M158.8,291.3c3.8-0.4,4.6,0.4,7.1,1.8c2.5,1.3,6.6,4.9,5.2,5.9
+ c-1.4,1-2.7,0.6-4.8,1.7c-2.1,1-5.4,4.4-5.9,2.8c-0.5-1.6-1.6-4-3-4.3c-1.4-0.2-5.6,0.2-5.6-4.3C151.8,293.1,155,291.7,158.8,291.3z">
+         </path>
+        </g>
+        <g id="C10020">
+         <desc>
+          嘉義市
+         </desc>
+         <path class="st1" d="M151.8,294.8c0-1.7,3.2-3.1,7-3.5c3.8-0.4,4.6,0.4,7.1,1.8c2.5,1.3,6.6,4.9,5.2,5.9c-1.4,1-2.7,0.6-4.8,1.7
+ c-2.1,1-5.4,4.4-5.9,2.8c-0.5-1.6-1.6-4-3-4.3C156,298.9,151.8,299.4,151.8,294.8z">
+         </path>
+        </g>
+        <g id="C67">
+         <desc>
+          臺南市
+         </desc>
+         <path class="st3" d="M122.6,372c0.1-0.9,0.2-1.5,0.4-2c0.9-2.5,3.4-6.8,1.9-8.1c-1.6-1.2-5,1.2-5.6,3.7c-0.6,2.5-2.8-2.5-2.2-5.3
+ c0.6-2.8-0.9-2.8-5-0.3c-4.1,2.5-6.2-4.4-1.6-6.5c-2.6-3.4-1.9-6.2,0-13.7c1.9-7.5,1.9-15.8,3.4-16.5c1.6-0.6,5-0.3,4-2.8
+ c-0.4-1.2-1.4-1.9-1.8-2.7c2.3,0,5.6,0.6,7.3,1.6c2.5,1.5,3.5,4.1,5.8,3.7c2.3-0.4,7.2-6.8,8.1-7.4c0.8-0.5,5.2-5.5,8.5-7.8
+ c3.3-2.3,7.7-1.2,11-2.1c3.3-0.8,5.4,1,9.3,1.5c3.9,0.4,1.5,1.7,1.7,3.3c0.2,1.7,1.2,3.9,3.6,4.1c2.4,0.2,2,2.9,0.9,3.7
+ c-1.1,0.8,0.5,1.9,0.1,7.5c-0.4,5.6,0.8,4.4,1,5c0.2,0.6,4.3,3.1,6,3.1c1.7,0,0.8-3.7,1.2-2.5c0.4,1.2,1.9,0.4,4.7,0.8
+ c1.3,0.2,2.5,0.8,3.3,1.2c-3.1,1.7-1.6,8.3-3.3,9.6c-1.9,1.5-8.2,10.8-10.7,13.9c-2.5,3.1-8.7,8.3-11.8,9.5
+ c-3.1,1.2-2.3,4.1-2.1,6.6c0.2,2.5-2.1,3.9-4.3,4.1c-2.3,0.2-2.9,1-4.6,3.3c-1.7,2.3-4.6,1.7-7,0c-2.5-1.7-6.8-0.8-8.7-1
+ c-1.9-0.2-6.4-1.9-7.9-2.9C127.1,376,124.5,374.1,122.6,372z">
+         </path>
+        </g>
+        <g id="C64">
+         <desc>
+          高雄市
+         </desc>
+         <path class="st1" d="M157.9,441.7c-0.1-0.1-0.1-0.2-0.2-0.2c-8.1-0.9-14.6-8.7-17.7-13.7c-3.1-5-9-9.6-7.5-11.5
+ c1.6-1.9,4-7.1,1.9-9.9c-2.2-2.8-9.3-9-6.2-15.8c-4.8-7.8-5.9-14.8-5.6-18.5c1.9,2.2,4.5,4,5.6,4.8c1.5,1,6,2.7,7.9,2.9
+ c1.9,0.2,6.2-0.6,8.7,1c2.5,1.7,5.4,2.3,7,0c1.7-2.3,2.3-3.1,4.6-3.3c2.3-0.2,4.6-1.7,4.3-4.1c-0.2-2.5-1-5.4,2.1-6.6
+ c3.1-1.2,9.3-6.4,11.8-9.5c2.5-3.1,8.8-12.4,10.7-13.9c1.7-1.3,0.2-7.9,3.3-9.6c1,0.5,1.6,0.8,1.1-0.4c-0.8-2.1,0.4-2.9-0.4-4.1
+ c-0.8-1.2-2.3-6.8,0-6.4c2.3,0.4,3.9,4.6,4.6,2.7c0.6-1.9,2.9-3.7,5-3.9c2.1-0.2,3.3-0.6,4.1-2.9c0.8-2.3,8.5-6.4,10.1-7.2
+ c1.7-0.8,3.3-6,4.6-7.6c1.1-1.3,3.3-3.3,8.9-5.3c0.4,0,0.8,0,1.1,0c3.3,0,7.5-0.2,8.3,0.6c0.8,0.8,1.4,5,3.1,4.1
+ c0.2-0.1,0.3-0.2,0.5-0.2c0.2,1.8,0,3.4-0.7,4.4c-1,1.5-3.1,1-4.6,2.5c-1.5,1.5-2.5,6.2,0.8,5.9c3.3-0.3,5.8,0.5,6,3.2
+ c0.1,1,0.1,2,0.1,3.1c-1.6,1.6-3.4,2.9-5.3,3.3c-2.7,0.5-4.6-2.2-6.2,3.6c-1.7,2.3-3.3,1.9-4.8,2.5c-1.5,0.6,0,5.2,0,7
+ c0,1.9-1.2,2.9-3.5,4.6c-2.3,1.7-0.4,2.9,0,6c0.4,3.1-0.6,7.9-2.1,8.7c-1.4,0.8,2.9,3.5,1.2,5.2c-1.7,1.7-5.6,3.5-7,4.8
+ c-1.5,1.2-1.9,4.8-1.2,6.8c0.6,2.1,1.4,5,3.5,7.7c1.2,1.6,2.2,2.8,2.6,3.8c-2.3,0.3-3.7-0.3-5-0.7c-1.9-0.6-3.1,3.3-5,4.1
+ c-1.9,0.8-4.3,1.6-4.3-2.1c0-3.7-5.2-5.1-7.7-3.3c-2.5,1.9-6.2,3.1-6.6,1.2c-0.4-1.9-2.7-2.3-5-0.4c-2.3,1.9-5.4,7-7.5,6.6
+ c-2.1-0.4-9.5-0.8-10.6-1.5c-1-0.6-2.3,3.5-2.7,5.2c-0.4,1.7-0.2,11.4-1.2,15.1c-1,3.7-2.3,9.5-1.7,16.2
+ C161.6,431.5,160.1,437.9,157.9,441.7z">
+         </path>
+        </g>
+        <g id="C10013">
+         <desc>
+          屏東縣
+         </desc>
+         <path class="st2" d="M214.8,473.1c0.9,0.5,3.4,2.8,5.6,4.6c0.8,6.5,1.7,12.7,1.9,15.6c0.6,6.5,0.1,14.3-3.4,15.2
+ c-3.5,0.9-3.5,5.3-1.9,8.4c1.6,3.1,0.5,10.3-1,8.6c-1.5-1.7-3.7-4.5-6.5-5.8c-2.8-1.2-5.3-2.2-6.5-4c-1.2,2.8,0,5.6-4,5.3
+ c-4-0.3-5-3.1-3.1-9.3c-3.1-3.1-3.7-6.8-3.1-11.8c0.6-5-1.2-17.7-6.8-26.7c-2.2-3.4,1.2-6.5-3.1-9c-4.3-2.5-3.1-9-7.1-10.6
+ c-4-1.5-12.2-4.9-17.8-11.9c2.2-3.8,3.7-10.2,3.2-15.2c-0.6-6.6,0.6-12.4,1.7-16.2c1-3.7,0.8-13.5,1.2-15.1c0.4-1.7,1.7-5.8,2.7-5.2
+ c1,0.6,8.5,1,10.6,1.5c2.1,0.4,5.2-4.8,7.5-6.6c2.3-1.9,4.6-1.4,5,0.4c0.4,1.9,4.1,0.6,6.6-1.2c2.5-1.9,7.7-0.4,7.7,3.3
+ c0,3.7,2.5,2.9,4.3,2.1c1.9-0.8,3.1-4.8,5-4.1c1.3,0.4,2.7,1,5,0.7c0.2,0.7,0.3,1.3-0.1,2c-0.8,1.7,0.6,3.5,5,6.2
+ c4.3,2.7-1.2,6-1.2,9.1c0,3.1-3.3,4.8-6,4.8c-2.7,0-0.2,2.7-6.6,3.3c-1.7-0.4-1.7,0.8-1.7,2.3c0,1.5-3.5,8.1-4.3,9.9
+ c-0.8,1.9,0.2,10.1,1.2,13.9c1,3.7-0.4,6.8,2.7,10.1c3.1,3.3-4.1,2.9-4.2,4.3c-0.1,1.5-0.7,7.2,1.1,8.1c1.9,0.8,6.2-0.4,4.1,4.8
+ c-2.1,5.2,2.1,4.1,1.5,7C209.2,474.8,213.3,472.3,214.8,473.1z M141.3,456c-2.8,6.5-0.9,8.4,3.4,10.3c4.4,1.9,9-7.4,9-11.8
+ C153.7,444.3,144.1,449.5,141.3,456z">
+         </path>
+        </g>
+        <g id="C10014">
+         <desc>
+          臺東縣
+         </desc>
+         <path class="st3" d="M296.6,302.5c0.9,0,1.8,0.1,2.6,0.2c-0.1,1-0.1,1.9-0.1,2.7c0,6.5-2.5,15.2-6.2,16.8
+ c-3.7,1.6-5,9.9-2.8,16.2c2.2,6.2-3.1,13-9.9,17.7c-1.2,5-0.6,10.3-4.7,14.9c-4,4.7-8.1,11.8-12.7,15.2c-2.5,5-2.8,6.5-4,10.9
+ c-1.2,4.3-4,8.4-8.4,8.7c-4.3,0.3-5.9,2.2-5.6,4.7c0.3,2.5-3.4,2.8-5,4c-1.6,1.2-1.1,6.8-3.8,9.6c-2.7,2.8-6.1,3.1-6.8,5.3
+ c-0.6,2.2,0.3,8.4-1.9,14.9c-2.2,6.5-6.8,8.4-8.1,13.7c-0.7,2.9,0.2,11.6,1.2,19.8c-2.2-1.8-4.7-4.1-5.6-4.6c-1.4-0.8-5.6,1.7-5-1.2
+ c0.6-2.9-3.5-1.9-1.5-7c2.1-5.2-2.3-3.9-4.1-4.8c-1.9-0.8-1.2-6.6-1.1-8.1c0.1-1.5,7.3-1,4.2-4.3c-3.1-3.3-1.7-6.4-2.7-10.1
+ c-1-3.7-2.1-12-1.2-13.9c0.8-1.9,4.3-8.5,4.3-9.9c0-1.5,0-2.7,1.7-2.3c6.4-0.6,3.9-3.3,6.6-3.3c2.7,0,6-1.7,6-4.8
+ c0-3.1,5.6-6.4,1.2-9.1c-4.3-2.7-5.8-4.6-5-6.2c0.3-0.7,0.3-1.3,0.1-2l0,0c-0.4-1-1.3-2.2-2.6-3.8c-2.1-2.7-2.9-5.6-3.5-7.7
+ c-0.6-2.1-0.2-5.6,1.2-6.8c1.5-1.2,5.4-3.1,7-4.8c1.7-1.7-2.7-4.4-1.2-5.2c1.5-0.8,2.5-5.6,2.1-8.7c-0.4-3.1-2.3-4.3,0-6
+ c2.3-1.7,3.5-2.7,3.5-4.6c0-1.9-1.5-6.4,0-7c1.4-0.6,3.1-0.2,4.8-2.5c1.7-5.8,3.5-3.1,6.2-3.6c1.9-0.4,3.7-1.7,5.3-3.3
+ c0.1,1.9,0.3,4,1.3,6.3c1.7,3.5,4.3,4.1,7.9,5c3.5,0.8,5.6,2.9,7.7,2.5c2.1-0.4,2.9,0.4,2.7,2.9c-0.2,2.5,2.3,4.1,3.7,5.6
+ c1.4,1.4,2.5,3.1,4.1,3.3c1.7,0.2,0.6,3.3,2.3,3.1c1.7-0.2,4.6-1.2,6.6-2.5c2.1-1.2,1.2-5.4,1.4-8.3c0.2-2.9,2.7-3.3,2.9-4.8
+ c0.2-1.5,3.7-6.6,3.9-8.5c0.2-1.9,0.4-5.6,2.3-7.9c1.9-2.3,1.2-6.4,0-9.1c-1.2-2.7,3.1-3.7,3.9-5
+ C292.9,303.5,292.3,302.3,296.6,302.5z M302.5,407c1.4,2.9,2.5,4.3,2.5,9.9c0,5.6,16.8,12.7,17.7,10.6c0.9-2.2-2.8-12.7-2.8-22.4
+ C318.9,402,301,404,302.5,407z M288.5,487.1c-0.9,3.4,3.7,6.8,6.5,9c2.8,2.2,3.7-0.9,7.4,1.2c3.6,2.2,8.2,6.5,10.2,4.3
+ c2-2.2,1.4-9-1.4-9.3c-2.8-0.3-8.7-2.2-5.9-3.4c2.8-1.2,2.5-9.9,0-11.3c-2.5-1.3-15-0.7-19,0C281.6,478.6,289.5,483.7,288.5,487.1z">
+         </path>
+        </g>
+        <g id="C10015">
+         <desc>
+          花蓮縣
+         </desc>
+         <path class="st2" d="M335.2,173.5c0.5,1.3,1.1,2.2-0.1,3.6c-2.2,2.5-16.5,18-15.2,25.8c-0.3,3.4-11.2,4.7-2.5,13.5
+ c1.2,2.9-0.9,5.1-2.2,8.8c-1.2,3.7-2.8,8.7-1.2,12.1c1.6,3.4-5.3,9.6-8.7,29.2c-3,17.1-5.5,29-6.1,36.1c-0.8-0.1-1.7-0.1-2.6-0.2
+ c-4.3-0.2-3.7,1-4.6,2.3c-0.8,1.2-5.2,2.3-3.9,5c1.2,2.7,1.9,6.8,0,9.1c-1.9,2.3-2.1,6-2.3,7.9c-0.2,1.9-3.7,7-3.9,8.5
+ c-0.2,1.4-2.7,1.9-2.9,4.8c-0.2,2.9,0.6,7-1.4,8.3c-2.1,1.2-5,2.3-6.6,2.5c-1.7,0.2-0.6-2.9-2.3-3.1c-1.7-0.2-2.7-1.9-4.1-3.3
+ c-1.4-1.4-3.9-3.1-3.7-5.6c0.2-2.5-0.6-3.3-2.7-2.9c-2.1,0.4-4.1-1.7-7.7-2.5c-3.5-0.8-6.2-1.5-7.9-5c-1.1-2.3-1.3-4.3-1.3-6.3l0,0
+ c0-1.1,0-2.1-0.1-3.1c-0.2-2.7-2.7-3.5-6-3.2c-3.3,0.3-2.3-4.4-0.8-5.9c1.4-1.4,3.5-1,4.6-2.5c0.7-0.9,0.9-2.5,0.7-4.4
+ c1.3-0.5,1.9-0.3,2.7-1.6c0.9-1.5,0.5-2.7,0.1-4.1c-0.4-1.5,0.2-3.3,1.5-4.9c1.2-1.6,6.6-0.4,9.7,0c3.1,0.4,1.9-3.3,1.9-5.6
+ c0-2.3,0.6-4.6,2.9-5.2c2.3-0.6,4.6-2.7,7-8.1c2.5-5.4,1.2-13.3-0.8-16c-2.1-2.7,0.6-3.9,1.2-6.2c0.6-2.3,2.1-8.9,4.6-10.8
+ c2.5-1.9,2.8-10.8,1-14.5c-1.9-3.7-0.6-5,0-6.8c0.6-1.9,2.9-6.6,4.9-8.1c2-1.4,2.2-4.8,0.2-6c-2-1.2-4.2-3.7-4.2-7.7
+ c0-3.9,3.1-2.9,5.8-3.5c2-0.4,2.4-2.5,2.2-5.6c0.4-0.2,0.8-0.5,1.3-1.2c1.5-2.1,2.7-0.4,3.5-2.9c0.8-2.5,3.3-6.2,5-7.3
+ c1.3-0.8,3.2-4,4.5-8.5c1,1,2.6,1.1,4.8,1.7c2.9,0.8,8.5,0.8,9.9,2.3c1.5,1.5,3.5,0,5.6-0.8c2.1-0.8,1.5-3.1,0.9-4.6
+ c-0.6-1.5,7,1.4,8.4,3.3C325.3,172,328.8,174.7,335.2,173.5z">
+         </path>
+        </g>
+        <g id="C10002">
+         <desc>
+          宜蘭縣
+         </desc>
+         <path class="st3" d="M356.3,77.1c1.5,0.2,3.3,0.5,5.1,0.8c-1.1,0.8-2.2,1.6-3.2,2.1c-3.7,2-9.6,5.1-10.3,10.3
+ c-0.6,5.3-11.8-0.3-5.6,26.7c0,5-0.3,15.3-0.3,15.3s5.3-2.2,8.4,1.8c3.1,4-9.6-0.1-1.6,4.9c2.6,3.1-5.3,7-5.3,7s2.5,3.2,2.2,4.5
+ c-0.3,1.2-9,4-9.3,7.5c-0.3,3.4,1.2,6.5-0.9,10.9c-1,2-0.7,3.4-0.2,4.5c-6.4,1.2-9.9-1.5-11.2-3.2c-1.4-1.9-9-4.8-8.4-3.3
+ c0.6,1.4,1.2,3.7-0.9,4.6c-2.1,0.8-4.1,2.3-5.6,0.8c-1.4-1.5-7-1.5-9.9-2.3c-2.2-0.6-3.8-0.7-4.8-1.7l0,0c-0.3-0.3-0.6-0.8-0.8-1.4
+ c-0.8-2.4-2.7-3-4.4-3s-4.1,3.5-6,2.9c-1.9-0.6-2.5-3.3-3.5-2.7c-1,0.6-3.3-1.2-3.4-3.1c0-0.8-0.4-2.2-0.8-3.4
+ c3.5-0.9,0.7-2.7,0.7-4.4c0-1.9,4.1-5.6,7.5-7.4c3.3-1.8,3.7-3.4,3.1-5.4c-0.4-1.4,0.4-3.4,1-5.3c0.4,0,0.9-0.1,1.5-0.3
+ c2.1-0.6,5.2-0.6,6.1-2.9c0.8-2.3-2.5-5-1.7-7.2c0.3-0.7,0.5-1.5,0.8-2.3c0,0,0,0,0,0c0.8,0.6,7.9,1.5,8.8-1.4
+ c0.9-2.9,3.4-4.1,6.1-5c2.7-0.8,4.1-1,2.3-4.4c-1.9-3.3-1.4-3.5,0.8-5.8c2.3-2.3,4.5-3.7,6.4-3.7c1.9,0,6.6-1.2,7.3-3.3
+ c0.6-2.1,0.2-2.5,4.3-2.9c4.1-0.4,6.2-4.6,6.6-6c0.4-1.4,2.5-1.9,5-1.9c2.5,0,3.5-3.1,2.1-5c-1.5-1.9-1-3.9,3.7-3.3
+ C352.7,80.4,352.5,76.7,356.3,77.1z">
+         </path>
+        </g>
+        <g id="C10016">
+         <desc>
+          澎湖縣
+         </desc>
+         <path class="st3" d="M30.7,283.9c-2.2-3.7,4.7-11.2,5.3-6.5c0.6,4.7,1.6,5.2,7.8,0.9c6.2-4.4,10.9,8.7,7.8,8.1
+ c-3.1-0.6-6.2,0.9-8.1,4.8c-1.9,3.8-5.6,9.8-11.5,8.6c-5.9-1.2-2.2-8.1,0-8.6C31.9,291.2,32.8,287.7,30.7,283.9z M28.7,272.4
+ c-0.1-3.7-7.4-6.8-6.5-1.8c0.9,5-1.2,4.9-4.7,9.9c-3.4,5,2.2,9.1,6.2,7.4C27.6,286.4,28.8,276.2,28.7,272.4z M30,270.6
+ c0.9,2.5,9,6.9,10.6,5.3c1.6-1.6,4-6.2,0-9.8C36.6,262.5,27.6,264,30,270.6z">
+         </path>
+        </g>
+        <g id="C09020">
+         <desc>
+          金門縣
+         </desc>
+         <path class="st4" d="M9.5,176.7c2.8-0.6,6.5,3.4,3.4,6.8c-3.1,3.4-6.6,5.3-7.8,0C4.1,178.3,6.4,177.4,9.5,176.7z M20.7,176.7
+ c0,3.1,6,3.2,1.9,7.8c-4.1,4.7-4.1,10.6,1.6,12.1c5.8,1.6,6.1-10.6,18.5-10c4,0,5.4,3.8,9.7,3.8c4.3,0,9-5.1,6.5-8.6
+ c-2.5-3.5-0.9-9.4-3.1-12.2c-2.2-2.8-5.6-4.7-9.3-3c-3.7,1.7-0.9,6.4-5.9,7.6c-5,1.2-5.8,3.7-11,0.9
+ C24.4,172.4,20.7,171.3,20.7,176.7z">
+         </path>
+        </g>
+        <g id="C09007">
+         <desc>
+          連江縣
+         </desc>
+         <path class="st1" d="M26.5,105.6c0,0,0.3,5.3,4.1,3.2c0,0,1.8-5,6.2-5.1c0,0,4.4-0.8,4.7,1.9c0,0,0.8,5-1.8,6.8c0,0-6-0.3-5.6,2.9
+ c0,0-1.4,4.4-5.8,2.9c0,0-2.2-0.1-3,1.1c0,0-2.5,1.2-4.5-1.1c0,0-0.9-0.6-2-0.7c0,0-3.5-0.4-3.2-3.3c0,0-0.6-4.4,0.7-5.1
+ c0,0,1.2-0.6,1.5-3.1c0,0-0.1-5,2.9-5.6C20.6,100.6,25,99.3,26.5,105.6z M40.6,85.9c-1.1,3.6,2.1,5.9,2.1,5.9
+ c4.5,1.2,4.4-3.9,4.4-3.9c-0.4-2.3,1.8-5.1,1.8-5.1c0.9-2.5,4.4-3.1,4.4-3.1c3.5,1.4,4.9-1.1,4.9-1.1c1.3-1.7,5.7-1.1,5.7-1.1
+ c1.3,0.4,2.6-0.3,2.6-0.3c0.9-0.1,1.1-5.5,1.1-5.5c-0.3-3.9-6.2-2.5-6.2-2.5c-2.2-0.7-4.2-3-4.2-3c-3.4-3-3.5-0.4-5.4,0
+ C50.1,66.8,41.6,74,41.6,74c-2.3,2.3,0,4.7,0,4.7C44.6,80.2,40.6,85.9,40.6,85.9z">
+         </path>
+        </g>
+       </svg>
+       <!--=== SVG MAP ===-->
+      </div>
+     </div>
+     <div class="col-md-4" id="func-data">
+      <div class="tab tab-v1 tab-town-map">
+       <ul class="nav nav-pills">
+        <li class="active" id="liDayTag">
+         <a href="javascript:void(0)" id="btn3DayTag" role="button" title="今明縣市天氣預報">
+          今明
+         </a>
+        </li>
+        <li id="liWeekTag">
+         <a href="javascript:void(0)" id="btnWeekTag" role="button" title="一週縣市天氣預報">
+          一週
+         </a>
+        </li>
+       </ul>
+       <div class="tab-content">
+        <div class="tab-pane active" id="divDayContent">
+         <ul class="nav nav-pills">
+          <li class="" id="liDay0">
+           <a btnindex="0" href="javascript:void(0)" id="btnDay0" role="button" title="今晚明晨">
+            今晚明晨
+           </a>
+          </li>
+          <li class="active" id="liDay1">
+           <a btnindex="1" href="javascript:void(0)" id="btnDay1" role="button" title="明日白天">
+            明日白天
+           </a>
+          </li>
+          <li id="liDay2">
+           <a btnindex="2" href="javascript:void(0)" id="btnDay2" role="button" title="明日晚上">
+            明日晚上
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="tab-pane" id="divWeekContent">
+         <ul class="nav nav-pills">
+          <li class="active" id="liWeek0">
+           <a btnindex="0" date="2020/08/11" href="javascript:void(0)" id="btnWeek0" role="button" title="星期二">
+            二
+           </a>
+          </li>
+          <li id="liWeek1">
+           <a btnindex="1" date="2020/08/12" href="javascript:void(0)" id="btnWeek1" role="button" title="星期三">
+            三
+           </a>
+          </li>
+          <li id="liWeek2">
+           <a btnindex="2" date="2020/08/13" href="javascript:void(0)" id="btnWeek2" role="button" title="星期四">
+            四
+           </a>
+          </li>
+          <li id="liWeek3">
+           <a btnindex="3" date="2020/08/14" href="javascript:void(0)" id="btnWeek3" role="button" title="星期五">
+            五
+           </a>
+          </li>
+          <li id="liWeek4">
+           <a btnindex="4" date="2020/08/15" href="javascript:void(0)" id="btnWeek4" role="button" title="星期六">
+            六
+           </a>
+          </li>
+          <li id="liWeek5">
+           <a btnindex="5" date="2020/08/16" href="javascript:void(0)" id="btnWeek5" role="button" title="星期日">
+            日
+           </a>
+          </li>
+          <li id="liWeek6">
+           <a btnindex="6" date="2020/08/17" href="javascript:void(0)" id="btnWeek6" role="button" title="星期一">
+            一
+           </a>
+          </li>
+         </ul>
+         <div class="week_zone is_open">
+          <ul class="nav nav-pills">
+           <li class="active" id="liDayActiveTime">
+            <a href="javascript:void(0)" id="btnDayActiveTime" role="button" title="白天">
+             白天
+            </a>
+           </li>
+           <li id="liNightActiveTime">
+            <a href="javascript:void(0)" id="btnNightActiveTime" role="button" title="晚上">
+             晚上
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="tab tab-v1 tab-forecast-map">
+       <div class="tab-content">
+        <div class="tab-pane active" id="f-1">
+         <span class="datetime text-center">
+          <small>
+           <span id="fcst_time">
+            08/11-06:00 ~ 08/11-18:00
+           </span>
+          </small>
+         </span>
+         <span class="datetime text-center hidden visible-xs">
+          <small>
+           <span>
+            <i aria-hidden="true" class="icon-warn">
+            </i>
+            點擊縣市名稱看詳細資料
+           </span>
+          </small>
+         </span>
+         <ol id="town">
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率80%，請點此進入基隆市網頁觀看詳細天氣內容。" class="aC10017" href="/V8/C/W/County/County.html?CID=10017" target="_self">
+            <span class="city">
+             基隆市
+            </span>
+            <span class="weather" id="sC10017">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10017">
+             80%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率70%，請點此進入臺北市網頁觀看詳細天氣內容。" class="aC63" href="/V8/C/W/County/County.html?CID=63" target="_self">
+            <span class="city">
+             臺北市
+            </span>
+            <span class="weather" id="sC63">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC63">
+             70%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率70%，請點此進入新北市網頁觀看詳細天氣內容。" class="aC65" href="/V8/C/W/County/County.html?CID=65" target="_self">
+            <span class="city">
+             新北市
+            </span>
+            <span class="weather" id="sC65">
+             <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg" title="陰時多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC65">
+             70%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率70%，請點此進入桃園市網頁觀看詳細天氣內容。" class="aC68" href="/V8/C/W/County/County.html?CID=68" target="_self">
+            <span class="city">
+             桃園市
+            </span>
+            <span class="weather" id="sC68">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC68">
+             70%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入新竹市網頁觀看詳細天氣內容。" class="aC10018" href="/V8/C/W/County/County.html?CID=10018" target="_self">
+            <span class="city">
+             新竹市
+            </span>
+            <span class="weather" id="sC10018">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10018">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入新竹縣網頁觀看詳細天氣內容。" class="aC10004" href="/V8/C/W/County/County.html?CID=10004" target="_self">
+            <span class="city">
+             新竹縣
+            </span>
+            <span class="weather" id="sC10004">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                34
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                93
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10004">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入苗栗縣網頁觀看詳細天氣內容。" class="aC10005" href="/V8/C/W/County/County.html?CID=10005" target="_self">
+            <span class="city">
+             苗栗縣
+            </span>
+            <span class="weather" id="sC10005">
+             <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg" title="多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10005">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入臺中市網頁觀看詳細天氣內容。" class="aC66" href="/V8/C/W/County/County.html?CID=66" target="_self">
+            <span class="city">
+             臺中市
+            </span>
+            <span class="weather" id="sC66">
+             <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg" title="多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC66">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率40%，請點此進入彰化縣網頁觀看詳細天氣內容。" class="aC10007" href="/V8/C/W/County/County.html?CID=10007" target="_self">
+            <span class="city">
+             彰化縣
+            </span>
+            <span class="weather" id="sC10007">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10007">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲短暫陣雨或雷雨，降雨機率40%，請點此進入南投縣網頁觀看詳細天氣內容。" class="aC10008" href="/V8/C/W/County/County.html?CID=10008" target="_self">
+            <span class="city">
+             南投縣
+            </span>
+            <span class="weather" id="sC10008">
+             <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg" title="多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                26
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                79
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10008">
+             40%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率60%，請點此進入雲林縣網頁觀看詳細天氣內容。" class="aC10009" href="/V8/C/W/County/County.html?CID=10009" target="_self">
+            <span class="city">
+             雲林縣
+            </span>
+            <span class="weather" id="sC10009">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                26
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                79
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10009">
+             60%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率80%，請點此進入嘉義市網頁觀看詳細天氣內容。" class="aC10020" href="/V8/C/W/County/County.html?CID=10020" target="_self">
+            <span class="city">
+             嘉義市
+            </span>
+            <span class="weather" id="sC10020">
+             <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg" title="陰時多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                24
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                75
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10020">
+             80%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="陰時多雲短暫陣雨或雷雨，降雨機率80%，請點此進入嘉義縣網頁觀看詳細天氣內容。" class="aC10010" href="/V8/C/W/County/County.html?CID=10010" target="_self">
+            <span class="city">
+             嘉義縣
+            </span>
+            <span class="weather" id="sC10010">
+             <img alt="陰時多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg" title="陰時多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                25
+               </i>
+               ~
+               <i>
+                30
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                77
+               </i>
+               ~
+               <i>
+                86
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10010">
+             80%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰陣雨或雷雨，降雨機率80%，請點此進入臺南市網頁觀看詳細天氣內容。" class="aC67" href="/V8/C/W/County/County.html?CID=67" target="_self">
+            <span class="city">
+             臺南市
+            </span>
+            <span class="weather" id="sC67">
+             <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                23
+               </i>
+               ~
+               <i>
+                29
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                73
+               </i>
+               ~
+               <i>
+                84
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC67">
+             80%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰陣雨或雷雨，降雨機率90%，請點此進入高雄市網頁觀看詳細天氣內容。" class="aC64" href="/V8/C/W/County/County.html?CID=64" target="_self">
+            <span class="city">
+             高雄市
+            </span>
+            <span class="weather" id="sC64">
+             <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                23
+               </i>
+               ~
+               <i>
+                28
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                73
+               </i>
+               ~
+               <i>
+                82
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC64">
+             90%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="陰時多雲陣雨或雷雨，降雨機率90%，請點此進入屏東縣網頁觀看詳細天氣內容。" class="aC10013" href="/V8/C/W/County/County.html?CID=10013" target="_self">
+            <span class="city">
+             屏東縣
+            </span>
+            <span class="weather" id="sC10013">
+             <img alt="陰時多雲陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg" title="陰時多雲陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                22
+               </i>
+               ~
+               <i>
+                28
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                72
+               </i>
+               ~
+               <i>
+                82
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10013">
+             90%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率60%，請點此進入宜蘭縣網頁觀看詳細天氣內容。" class="aC10002" href="/V8/C/W/County/County.html?CID=10002" target="_self">
+            <span class="city">
+             宜蘭縣
+            </span>
+            <span class="weather" id="sC10002">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                26
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                79
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10002">
+             60%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲短暫陣雨或雷雨，降雨機率50%，請點此進入花蓮縣網頁觀看詳細天氣內容。" class="aC10015" href="/V8/C/W/County/County.html?CID=10015" target="_self">
+            <span class="city">
+             花蓮縣
+            </span>
+            <span class="weather" id="sC10015">
+             <img alt="多雲短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/15.svg" title="多雲短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                25
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                77
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10015">
+             50%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰陣雨或雷雨，降雨機率70%，請點此進入臺東縣網頁觀看詳細天氣內容。" class="aC10014" href="/V8/C/W/County/County.html?CID=10014" target="_self">
+            <span class="city">
+             臺東縣
+            </span>
+            <span class="weather" id="sC10014">
+             <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                23
+               </i>
+               ~
+               <i>
+                31
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                73
+               </i>
+               ~
+               <i>
+                88
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10014">
+             70%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰陣雨或雷雨，降雨機率70%，請點此進入澎湖縣網頁觀看詳細天氣內容。" class="aC10016" href="/V8/C/W/County/County.html?CID=10016" target="_self">
+            <span class="city">
+             澎湖縣
+            </span>
+            <span class="weather" id="sC10016">
+             <img alt="多雲時陰陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                24
+               </i>
+               ~
+               <i>
+                32
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                75
+               </i>
+               ~
+               <i>
+                90
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC10016">
+             70%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="陰時多雲陣雨或雷雨，降雨機率100%，請點此進入金門縣網頁觀看詳細天氣內容。" class="aC09020" href="/V8/C/W/County/County.html?CID=09020" target="_self">
+            <span class="city">
+             金門縣
+            </span>
+            <span class="weather" id="sC09020">
+             <img alt="陰時多雲陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/17.svg" title="陰時多雲陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                31
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                88
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC09020">
+             100%
+            </span>
+           </a>
+          </li>
+          <li>
+           <a aria-label="多雲時陰短暫陣雨或雷雨，降雨機率50%，請點此進入連江縣網頁觀看詳細天氣內容。" class="aC09007" href="/V8/C/W/County/County.html?CID=09007" target="_self">
+            <span class="city">
+             連江縣
+            </span>
+            <span class="weather" id="sC09007">
+             <img alt="多雲時陰短暫陣雨或雷雨" class="img-responsive" src="/V8/assets/img/weather_icons/weathers/svg_icon/day/16.svg" title="多雲時陰短暫陣雨或雷雨"/>
+             <span class="temperature hidden-lg hidden-md">
+              <span class="tem-C is-active">
+               <i>
+                27
+               </i>
+               ~
+               <i>
+                33
+               </i>
+              </span>
+              <span class="tem-F is-hidden">
+               <i>
+                81
+               </i>
+               ~
+               <i>
+                91
+               </i>
+              </span>
+             </span>
+            </span>
+            <span class="rain" id="rainC09007">
+             50%
+            </span>
+           </a>
+          </li>
+         </ol>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+  </div>
+  <!--/container-->
+  <!-- End Content Part -->
+  <!--=== Footer ===-->
+  <footer class="footer-v3" id="footer-v3">
+   <div class="copyright">
+    <div class="container">
+     <div class="row">
+      <!-- link Info -->
+      <div class="col-md-12">
+       <p class="link">
+        <a accesskey="B" href="#footer-info" id="footer-info" title=":::下方內容區導盲磚">
+         :::
+        </a>
+        <a href="/V8/C/sitemap.html" target="_self" title="導覽">
+         導覽
+        </a>
+        |
+        <a href="https://edu.cwb.gov.tw/PopularScience/" target="_blank" title="科普網, 另開新視窗">
+         科普網
+        </a>
+        |
+        <a href="/V8/C/K/CommonFaq/index.html" target="_self" title="常見問答">
+         常見問答
+        </a>
+        |
+        <a href="/V8/C/K/bilingual_glossary.html" target="_self" title="雙語詞彙">
+         雙語詞彙
+        </a>
+        |
+        <a href="/V8/C/S/eservice/rss.html" target="_self" title="RSS服務">
+         RSS服務
+        </a>
+        |
+        <br class="visible-xs"/>
+        <a href="/V8/C/S/email.html" target="_self" title="意見箱">
+         意見箱
+        </a>
+        |
+        <a href="/V8/C/S/hotlink.html" target="_self" title="好站介紹">
+         好站介紹
+        </a>
+        |
+        <a href="https://pweb.cwb.gov.tw/CWBMEMBER3/" target="_blank" title="會員登入, 另開新視窗">
+         會員登入
+        </a>
+        |
+        <a href="/V8/C/retired.html" target="_self" title="退休資訊專區">
+         退休資訊專區
+        </a>
+        |
+        <a href="/V8/C/private.html" target="_self" title="隱私權保護政策">
+         隱私權保護政策
+        </a>
+        |
+        <br class="visible-xs"/>
+        <a href="/V8/C/security.html" target="_self" title="資訊安全政策">
+         資訊安全政策
+        </a>
+        |
+        <a href="/V8/C/information.html" target="_self" title="政府網站資料開放宣告">
+         政府網站資料開放宣告
+        </a>
+        |
+        <a href="/V8/C/pi_secure.pdf" target="_blank" title="個人資料保護專區PDF, 另開新視窗">
+         個人資料保護專區
+        </a>
+       </p>
+      </div>
+      <!-- End link Info-->
+      <!-- Address -->
+      <address class="col-md-12">
+       <a href="https://accessibility.ncc.gov.tw/Applications/Detail?category=20200121083322" style="float:right;" target="_blank" title="通過AA檢測等級無障礙網頁檢測(另開新視窗)">
+        <img alt="[無障礙AA標章]" class="img-responsive" src="/V8/assets/img/AAccessibility.jpg" style="width:25vw;max-width:100px;"/>
+       </a>
+       <p style="text-align:left">
+        諮詢服務：08:30至17:30
+        <br class="visible-xs"/>
+        資料申購：08:30至17:00
+        <br class="visible-xs"/>
+        地址：100006臺北市中正區公園路64號
+        <br class="hidden-lg"/>
+        <span class="hidden-xs">
+         |
+        </span>
+        總機：(02)2349-1000(代表號)
+        <br class="visible-xs"/>
+        氣象查詢：(02)2349-1234
+        <br class="visible-xs"/>
+        地震查詢：(02)2349-1168
+       </p>
+       <p style="text-align:left">
+        <br class="visible-xs"/>
+        <span class="hidden-xs">
+         |
+        </span>
+        中華民國交通部中央氣象局
+        <br class="visible-xs"/>
+        版權所有 轉載請註明出處
+        <br class="visible-xs"/>
+        本網站參考時間：臺灣標準時間TST(GMT +08:00)
+       </p>
+      </address>
+      <!-- End Address -->
+      <div id="footer-view-type">
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="gcse-put-div">
+   </div>
+  </footer>
+  <!--=== End Footer ===-->
+  <!-- JS Weather Data -->
+  <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
+  </script>
+  <script>
+   var VER = 'C';
+  </script>
+  <script src="/Data/js/info/Info_County.js">
+  </script>
+  <script src="/Data/js/TableData_36hr_County_C.js">
+  </script>
+  <script src="/Data/js/week/TableData_Week_County_C.js">
+  </script>
+  <!-- JS Global Compulsory -->
+  <!--common_js_begin-->
+  <script src="/Data/js/warn/Warning_Content.js?">
+  </script>
+  <script src="/Data/js/info/Info_Warning.js?v=20200511">
+  </script>
+  <script src="/Data/js/info/Info_County.js?v=20200415">
+  </script>
+  <script src="/Data/js/info/Info_Town.js?">
+  </script>
+  <script src="/V8/assets/plugins/jquery/jquery-2.2.4.min.js">
+  </script>
+  <script src="/V8/assets/plugins/jquery/jquery-migrate.min.js">
+  </script>
+  <script src="/V8/assets/plugins/bootstrap/js/bootstrap.min.js">
+  </script>
+  <script src="/V8/assets/plugins/back-to-top.js">
+  </script>
+  <script src="/V8/assets/plugins/smoothScroll.js">
+  </script>
+  <script src="/V8/assets/js/cookie_lib.js">
+  </script>
+  <script src="/V8/assets/js/function-global.js?v=20200401">
+  </script>
+  <script src="/V8/assets/js/app.js">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-126485471-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-126485471-1');
+  </script>
+  <!--common_js_end-->
+  <!-- JS Customization -->
+  <script src="/V8/assets/js/map/function-weather.js">
+  </script>
+  <!-- <script type="text/javascript" src="/V8/assets/js/map/function-forecast.js"></script> -->
+  <!-- FOR weather START -->
+  <script src="/V8/assets/js/dateformat.js">
+  </script>
+  <script src="/V8/assets/js/weather/County-Map.js">
+  </script>
+  <!-- FOR weather END -->
+  <!-- JS Page Level -->
+  <script>
+   jQuery(document).ready(function() {
+        App.init();
+    });
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/V8/assets/plugins/respond.js"></script>
+    <script src="/V8/assets/plugins/html5shiv.js"></script>
+    <script src="/V8/assets/plugins/placeholder-IE-fixes.js"></script>
+    <![endif]-->
+  <div id="topcontrol" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;" title="返回頂端">
+  </div>
+ </body>
+</html>
